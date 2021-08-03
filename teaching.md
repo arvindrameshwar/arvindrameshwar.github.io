@@ -5,7 +5,7 @@ permalink: /teaching
 ---
 The following are courses I have been a teaching assistant for, during my graduate studies.
 
-### Within IISc
+### At IISc
 1. [Random Processes](https://ece.iisc.ac.in/~parimal/random.html) (October '20--January '21)
 
 ### At IIIT-Hyderabad (As part of the PMRF teaching commitments)
