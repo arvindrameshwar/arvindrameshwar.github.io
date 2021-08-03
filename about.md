@@ -15,7 +15,7 @@ permalink: /pubs
 1. V. Arvind Rameshwar and Navin Kashyap, “**Numerically Computable Lower Bounds on the Capacity of the $(1,\infty)$-RLL Input-Constrained Binary Erasure Channel**,”
 accepted to the National Conference on Communications (NCC), 2021. **Recipient of a Best Paper Award**.
 
-2. V. Arvind Rameshwar and Navin Kashyap, “**Bounds on the Feedback Capacity of the $(d,\infty)$-RLL Input-Constrained Binary Erasure Channel**,” accepted to the International Symposium on Information Theory (ISIT) 2021, available [Online] at https://arxiv.org/abs/2101.08638.
+2. V. Arvind Rameshwar and Navin Kashyap, “**Bounds on the Feedback Capacity of the $(d,\infty)$-RLL Input-Constrained Binary Erasure Channel**,” accepted to the International Symposium on Information Theory (ISIT) 2021. [[arXiv full version](https://arxiv.org/abs/2101.08638)]
 
 3. V. Arvind Rameshwar, Aryabhatt M. Reghu, and Navin Kashyap, “**On the capacity of the flash memory channel with feedback**,” in 2020 International Symposium on Information Theory and its Applications (ISITA2020), (Kapolei, USA), Oct. 2020. 
 
