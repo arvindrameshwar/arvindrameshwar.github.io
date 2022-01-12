@@ -31,4 +31,4 @@ accepted to the National Conference on Communications (NCC), 2021. **Recipient o
 
 ### Preprints
 
-1. V. Arvind Rameshwar and Navin Kashyap, “On the Performance of Reed-Muller Codes Over $(d,\infty)$-RLL Input-Constrained BMS Channels”, Jan. 2022. [[arXiv full version](https://arxiv.org/abs/2201.02035)]
+1. V. Arvind Rameshwar and Navin Kashyap, “**On the Performance of Reed-Muller Codes Over $(d,\infty)$-RLL Input-Constrained BMS Channels**”, Jan. 2022. [[arXiv full version](https://arxiv.org/abs/2201.02035)]
