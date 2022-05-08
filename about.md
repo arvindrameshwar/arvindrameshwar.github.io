@@ -18,7 +18,7 @@ permalink: /pubs
 
 3. V. Arvind Rameshwar and Navin Kashyap, “**Bounds on the Feedback Capacity of the $(d,\infty)$-RLL Input-Constrained Binary Erasure Channel**,” accepted to the International Symposium on Information Theory (ISIT) 2021. [[arXiv full version](https://arxiv.org/abs/2101.08638)][[IEEE Xplore](https://ieeexplore.ieee.org/document/9518138)]
 
-4. V. Arvind Rameshwar, Aryabhatt M. Reghu, and Navin Kashyap, “**On the capacity of the flash memory channel with feedback**,” in 2020 International Symposium on Information Theory and its Applications (ISITA2020), Kapolei, USA, Oct. 2020. 
+4. V. Arvind Rameshwar, Aryabhatt M. Reghu, and Navin Kashyap, “**On the capacity of the flash memory channel with feedback**,” in 2020 International Symposium on Information Theory and its Applications (ISITA2020), Kapolei, USA, Oct. 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9366100)]
 
 5. V. Arvind Rameshwar and Navin Kashyap, “**Computable lower bounds for capacities of input-driven finite-state channels**,” in Proc. 2020 International Symposium on Information Theory (ISIT 2020), Los Angeles, California, USA, Jun. 21--26, 2020. [[arXiv full version](https://arxiv.org/abs/2001.03423)]
 
