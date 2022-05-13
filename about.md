@@ -33,3 +33,4 @@ permalink: /pubs
 ### Preprints
 
 1. V. Arvind Rameshwar and Navin Kashyap, "**A Feedback Capacity-Achieving Coding Scheme for the (d,∞)-RLL Input-Constrained Binary Erasure Channel**." [[arXiv full version](https://arxiv.org/abs/2204.06780)]
+2. V. Arvind Rameshwar and Navin Kashyap, “**Linear Runlength-Limited Subcodes of Reed-Muller Codes and Coding Schemes for Input-Constrained BMS Channels**.” [[arXiv full version](https://arxiv.org/abs/2205.04153)]
