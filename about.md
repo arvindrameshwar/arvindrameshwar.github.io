@@ -8,7 +8,7 @@ permalink: /pubs
 
 ### Journal
 
-1. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal and popular matchings**,” <span style="color:blue">Journal of Combinatorial Optimization</span>, vol. 37, no. 2, pp. 523--545, 2019. [[SpringerLink](https://link.springer.com/article/10.1007/s10878-018-0348-9#:~:text=A%20matching%20M%20in%20G,and%20deleted%20at%20any%20point.)]
+1. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal and popular matchings**,” Journal of Combinatorial Optimization, vol. 37, no. 2, pp. 523--545, 2019. [[SpringerLink](https://link.springer.com/article/10.1007/s10878-018-0348-9#:~:text=A%20matching%20M%20in%20G,and%20deleted%20at%20any%20point.)]
 
 ### Conference
 
