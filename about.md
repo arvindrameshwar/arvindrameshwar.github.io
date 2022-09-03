@@ -14,7 +14,7 @@ permalink: /pubs
 
 1. V. Arvind Rameshwar and Navin Kashyap, “**Linear Runlength-Limited Subcodes of Reed-Muller Codes and Coding Schemes for Input-Constrained BMS Channels**," accepted to the 2022 IEEE Information Theory Workshop (ITW). [[arXiv full version](https://arxiv.org/abs/2205.04153)]
 
-2. V. Arvind Rameshwar and Navin Kashyap, "**A Feedback Capacity-Achieving Coding Scheme for the (d,∞)-RLL Input-Constrained Binary Erasure Channel**," 2022 IEEE International Conference on Signal Processing and Communications (SPCOM). [[arXiv full version](https://arxiv.org/abs/2204.06780)]
+2. V. Arvind Rameshwar and Navin Kashyap, "**A Feedback Capacity-Achieving Coding Scheme for the (d,∞)-RLL Input-Constrained Binary Erasure Channel**," 2022 IEEE International Conference on Signal Processing and Communications (SPCOM). **Recipient of a Best Student Paper Award**. [[arXiv full version](https://arxiv.org/abs/2204.06780)]
 
 3. V. Arvind Rameshwar and Navin Kashyap, “**On the Performance of Reed-Muller Codes Over $(d,\infty)$-RLL Input-Constrained BMS Channels**,” 2022 International Symposium on Information Theory (ISIT), Espoo, Finland, Jun. 2022. [[arXiv full version](https://arxiv.org/abs/2201.02035)]
 
