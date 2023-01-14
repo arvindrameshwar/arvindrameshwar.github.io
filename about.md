@@ -38,3 +38,5 @@ permalink: /pubs
 11. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal matchings**,” in Computing and Combinatorics -- 23<sup>rd</sup> International Conference, COCOON 2017, Hong Kong, China, August 3--5, 2017, Proceedings (Y. Cao and J. Chen, eds.), vol. 10392 of Lecture Notes in Computer Science, pp. 433--444, Springer, 2017. [[arXiv full version](https://arxiv.org/abs/1704.00899)]
 
 ### As Preprints
+
+1. V. Arvind Rameshwar and Navin Kashyap, "**Estimating the Sizes of Binary Error-Correcting Constrained Codes**," to be submitted to the IEEE Journal on Selected Areas in Information Theory. [[arXiv full version](https://arxiv.org/abs/2301.05098)]
