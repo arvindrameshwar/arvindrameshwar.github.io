@@ -8,9 +8,11 @@ permalink: /pubs
 
 ### In Journals
 
-1. V. Arvind Rameshwar and Navin Kashyap, "**Coding Schemes Based on Reed-Muller Codes for $(d,\infty)$-RLL Input-Constrained Channels**," submitted to the IEEE Transactions on Information Theory. [[arXiv](https://arxiv.org/abs/2211.05513)]
+1. V. Arvind Rameshwar and Navin Kashyap, "**Estimating the Sizes of Binary Error-Correcting Constrained Codes**," submitted to the IEEE Journal on Selected Areas in Information Theory. [[arXiv full version](https://arxiv.org/abs/2301.05098)]
 
-2. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal and popular matchings**,” Journal of Combinatorial Optimization, vol. 37, no. 2, pp. 523--545, 2019. [[SpringerLink](https://link.springer.com/article/10.1007/s10878-018-0348-9#:~:text=A%20matching%20M%20in%20G,and%20deleted%20at%20any%20point.)]
+2. V. Arvind Rameshwar and Navin Kashyap, "**Coding Schemes Based on Reed-Muller Codes for $(d,\infty)$-RLL Input-Constrained Channels**," submitted to the IEEE Transactions on Information Theory. [[arXiv](https://arxiv.org/abs/2211.05513)]
+
+3. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal and popular matchings**,” Journal of Combinatorial Optimization, vol. 37, no. 2, pp. 523--545, 2019. [[SpringerLink](https://link.springer.com/article/10.1007/s10878-018-0348-9#:~:text=A%20matching%20M%20in%20G,and%20deleted%20at%20any%20point.)]
  
 
 ### In Conferences
@@ -39,4 +41,4 @@ permalink: /pubs
 
 ### As Preprints
 
-1. V. Arvind Rameshwar and Navin Kashyap, "**Estimating the Sizes of Binary Error-Correcting Constrained Codes**," to be submitted to the IEEE Journal on Selected Areas in Information Theory. [[arXiv full version](https://arxiv.org/abs/2301.05098)]
+
