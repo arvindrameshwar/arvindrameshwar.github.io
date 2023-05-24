@@ -8,7 +8,7 @@ permalink: /pubs
 
 ### In Journals
 
-1. V. Arvind Rameshwar and Navin Kashyap, "**Estimating the sizes of binary error-correcting constrained codes**," accepted with required revisions at the IEEE Journal on Selected Areas in Information Theory. [[arXiv full version](https://arxiv.org/abs/2301.05098)]
+1. V. Arvind Rameshwar and Navin Kashyap, "**Estimating the sizes of binary error-correcting constrained codes**," to appear in the IEEE Journal on Selected Areas in Information Theory. [[arXiv full version](https://arxiv.org/abs/2301.05098)]
 
 2. V. Arvind Rameshwar and Navin Kashyap, "**Coding schemes based on Reed-Muller codes for $(d,\infty)$-RLL input-constrained channels**," under review at the IEEE Transactions on Information Theory. [[arXiv](https://arxiv.org/abs/2211.05513)]
 
