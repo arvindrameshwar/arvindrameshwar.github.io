@@ -17,7 +17,7 @@ permalink: /pubs
 
 ### In Conferences
 
-1. V. Arvind Rameshwar and Navin Kashyap, "**A version of Delsarte's linear program for constrained systems**," accepted to the 2023 IEEE International Symposium on Information Theory (ISIT). [[arXiv full version](https://arxiv.org/abs/2301.05098)]
+1. V. Arvind Rameshwar and Navin Kashyap, "**A version of Delsarte's linear program for constrained systems**," accepted to the 2023 IEEE International Symposium on Information Theory (ISIT).  **Finalist for a Jack Keil Wolf ISIT Student Paper Award**. [[arXiv full version](https://arxiv.org/abs/2301.05098)]
 
 2. V. Arvind Rameshwar and Navin Kashyap, "**Counting constrained codewords in binary linear codes via Fourier expansions**," accepted to the 2023 IEEE International Symposium on Information Theory (ISIT). [[arXiv full version](https://arxiv.org/abs/2301.05098)]
 
