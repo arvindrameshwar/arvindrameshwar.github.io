@@ -35,7 +35,7 @@ permalink: /pubs
 
 9. V. Arvind Rameshwar and Navin Kashyap, “**Computable lower bounds for capacities of input-driven finite-state channels**,” in Proc. 2020 International Symposium on Information Theory (ISIT 2020), Los Angeles, California, USA, Jun. 21--26, 2020. [[arXiv full version](https://arxiv.org/abs/2001.03423)]
 
-10. V. Arvind Rameshwar and Navin Kashyap, “**Achieving secrecy capacity of minimum storage regenerating codes for all feasible $(n,k,d)$ parameter values**,” in 2019 National Conference on Communications (NCC), pp. 1--6, 2019. [[arXiv](https://arxiv.org/abs/1902.09865)][[IEEE Xplore](https://ieeexplore.ieee.org/document/8732243)]
+10. V. Arvind Rameshwar and Navin Kashyap, “**Achieving secrecy capacity of minimum storage regenerating codes for all feasible $(n,k,d)$ parameter values**,” in 2019 National Conference on Communications (NCC), pp. 1--6, 2019. **Finalist for a Best Paper Award**. [[arXiv](https://arxiv.org/abs/1902.09865)][[IEEE Xplore](https://ieeexplore.ieee.org/document/8732243)]
 
 11. V. Arvind Rameshwar, Dusi Aditya, M. Balasubramanian, U. Poorna Lakshmi, and Prasant Kumar Pattnaik, “**Effect of longitudinal and shear stress on photonic crystal-based ring resonator**,” in 2018 3<sup>rd</sup> International Conference on Microwave and Photonics (ICMAP), pp. 1--2, Feb. 2018. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8354569)]
 
