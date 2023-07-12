@@ -8,7 +8,7 @@ permalink: /pubs
 
 ### In Journals
 
-1. V. Arvind Rameshwar and Navin Kashyap, "**Estimating the sizes of binary error-correcting constrained codes**," to appear in the IEEE Journal on Selected Areas in Information Theory. [[arXiv full version](https://arxiv.org/abs/2301.05098)]
+1. V. Arvind Rameshwar and Navin Kashyap, "**Estimating the sizes of binary error-correcting constrained codes**," to appear in the IEEE Journal on Selected Areas in Information Theory, accepted May 2023. [[arXiv full version](https://arxiv.org/abs/2301.05098)]
 
 2. V. Arvind Rameshwar and Navin Kashyap, "**Coding schemes based on Reed-Muller codes for $(d,\infty)$-RLL input-constrained channels**," under review at the IEEE Transactions on Information Theory. [[arXiv](https://arxiv.org/abs/2211.05513)]
 
@@ -17,9 +17,9 @@ permalink: /pubs
 
 ### In Conferences
 
-1. V. Arvind Rameshwar and Navin Kashyap, "**A version of Delsarte's linear program for constrained systems**," accepted to the 2023 IEEE International Symposium on Information Theory (ISIT).  **Recipient of a Jack Keil Wolf ISIT Student Paper Award**. [[arXiv full version](https://arxiv.org/abs/2301.05098)]
+1. V. Arvind Rameshwar and Navin Kashyap, "**A version of Delsarte's linear program for constrained systems**," 2023 IEEE International Symposium on Information Theory (ISIT).  **Recipient of a Jack Keil Wolf ISIT Student Paper Award**. [[arXiv full version](https://arxiv.org/abs/2301.05098)]
 
-2. V. Arvind Rameshwar and Navin Kashyap, "**Counting constrained codewords in binary linear codes via Fourier expansions**," accepted to the 2023 IEEE International Symposium on Information Theory (ISIT). [[arXiv full version](https://arxiv.org/abs/2301.05098)]
+2. V. Arvind Rameshwar and Navin Kashyap, "**Counting constrained codewords in binary linear codes via Fourier expansions**," 2023 IEEE International Symposium on Information Theory (ISIT). [[arXiv full version](https://arxiv.org/abs/2301.05098)]
 
 3. V. Arvind Rameshwar and Navin Kashyap, “**Linear runlength-limited subcodes of Reed-Muller codes and coding schemes for input-constrained BMS channels**," 2022 IEEE Information Theory Workshop (ITW). [[arXiv full version](https://arxiv.org/abs/2205.04153)]
 
