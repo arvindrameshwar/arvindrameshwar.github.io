@@ -8,7 +8,7 @@ permalink: /pubs
 
 ### In Journals
 
-1. V. Arvind Rameshwar and Navin Kashyap, "**Estimating the sizes of binary error-correcting constrained codes**," to appear in the IEEE Journal on Selected Areas in Information Theory, accepted May 2023. [[arXiv full version](https://arxiv.org/abs/2301.05098)]
+1. V. Arvind Rameshwar and Navin Kashyap, "**Estimating the sizes of binary error-correcting constrained codes**," to appear in the IEEE Journal on Selected Areas in Information Theory, accepted May 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10131968)][[arXiv full version](https://arxiv.org/abs/2301.05098)]
 
 2. V. Arvind Rameshwar and Navin Kashyap, "**Coding schemes based on Reed-Muller codes for $(d,\infty)$-RLL input-constrained channels**," under review at the IEEE Transactions on Information Theory. [[arXiv](https://arxiv.org/abs/2211.05513)]
 
@@ -21,7 +21,7 @@ permalink: /pubs
 
 2. V. Arvind Rameshwar and Navin Kashyap, "**Counting constrained codewords in binary linear codes via Fourier expansions**," 2023 IEEE International Symposium on Information Theory (ISIT). [[arXiv full version](https://arxiv.org/abs/2301.05098)]
 
-3. V. Arvind Rameshwar and Navin Kashyap, “**Linear runlength-limited subcodes of Reed-Muller codes and coding schemes for input-constrained BMS channels**," 2022 IEEE Information Theory Workshop (ITW). [[arXiv full version](https://arxiv.org/abs/2205.04153)]
+3. V. Arvind Rameshwar and Navin Kashyap, “**Linear runlength-limited subcodes of Reed-Muller codes and coding schemes for input-constrained BMS channels**," 2022 IEEE Information Theory Workshop (ITW). [[IEEE Xplore](https://ieeexplore.ieee.org/document/9965911)][[arXiv full version](https://arxiv.org/abs/2205.04153)]
 
 4. V. Arvind Rameshwar and Navin Kashyap, "**A feedback capacity-achieving coding scheme for the $(d,\infty)$-RLL input-constrained binary erasure channel**," 2022 IEEE International Conference on Signal Processing and Communications (SPCOM). **Recipient of a Best Student Paper Award**. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9840852)][[arXiv full version](https://arxiv.org/abs/2204.06780)]
 
