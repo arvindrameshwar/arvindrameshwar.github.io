@@ -45,4 +45,5 @@ permalink: /pubs
 
 ### As Preprints
 
+1. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-Based Estimates of the Sizes of Constrained Subcodes of Reed-Muller Codes**". [[arXiv full version](https://arxiv.org/abs/2309.08907)]
 
