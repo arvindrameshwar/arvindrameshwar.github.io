@@ -8,9 +8,9 @@ permalink: /pubs
 
 ### In Journals
 
-1. V. Arvind Rameshwar and Navin Kashyap, "**Estimating the sizes of binary error-correcting constrained codes**," to appear in the IEEE Journal on Selected Areas in Information Theory, accepted May 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10131968)][[arXiv full version](https://arxiv.org/abs/2301.05098)]
+1. V. Arvind Rameshwar and Navin Kashyap, "Estimating the Sizes of Binary Error-Correcting Constrained Codes," in IEEE Journal on Selected Areas in Information Theory, vol. 4, pp. 144-158, 2023, doi: 10.1109/JSAIT.2023.3279113. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10131968)][[arXiv full version](https://arxiv.org/abs/2301.05098)]
 
-2. V. Arvind Rameshwar and Navin Kashyap, "**Coding schemes based on Reed-Muller codes for $(d,\infty)$-RLL input-constrained channels**," under review at the IEEE Transactions on Information Theory. [[arXiv](https://arxiv.org/abs/2211.05513)]
+2. V. A. Rameshwar and N. Kashyap, "Coding Schemes Based on Reed-Muller Codes for $(d,\infty)$-RLL Input-Constrained Channels," in IEEE Transactions on Information Theory, vol. 69, no. 11, pp. 7003-7024, Nov. 2023, doi: 10.1109/TIT.2023.3296207. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10185128)][[arXiv](https://arxiv.org/abs/2211.05513)]
 
 3. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal and popular matchings**,” Journal of Combinatorial Optimization, vol. 37, no. 2, pp. 523--545, 2019. [[SpringerLink](https://link.springer.com/article/10.1007/s10878-018-0348-9#:~:text=A%20matching%20M%20in%20G,and%20deleted%20at%20any%20point.)]
  
