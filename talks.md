@@ -11,5 +11,5 @@ permalink: /talks
 4. "**Bellman Meets Shannon: On Dynamic Programming and Capacity Computation**," in the Networks Seminar Series - Centre for Networked Intelligence, IISc [slides]({{ site.baseurl }}/Networks_Seminar_June_2020.pdf)
 
 ### Other
-1. "**Capacity Computation and Coding for Input-Constrained Channels**," PhD defence, IISc, Bengaluru [slides]({{ site.baseurl }}/defence_talk.pdf)
+1. "**Capacity Computation and Coding for Input-Constrained Channels**," PhD defence, IISc, Bengaluru [slides]({{ site.baseurl }}/defence_talk_mod.pdf)
    
