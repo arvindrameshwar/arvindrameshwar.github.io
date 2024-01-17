@@ -47,3 +47,4 @@ permalink: /pubs
 
 ### As Unpublished Preprints
 
+1. V. Arvind Rameshwar and Nir Weinberger, "**Information Rates Over DMCs With Many Independent Views**". [[full version]]({{ site.baseurl }}/arvind_nir_multi_view.pdf)
