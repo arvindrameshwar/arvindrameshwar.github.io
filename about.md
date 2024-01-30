@@ -48,3 +48,4 @@ permalink: /pubs
 ### As Unpublished Preprints
 
 1. V. Arvind Rameshwar and Nir Weinberger, "**Information Rates Over DMCs With Many Independent Views**". [[full version]]({{ site.baseurl }}/arvind_nir_multi_view.pdf)
+2. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Novoneel Chakraborty, and Abhay Sharma, "**Mean Estimation with User-Level Privacy for Spatio-Temporal IoT Datasets**". [[arXiv full version](https://arxiv.org/abs/2401.15906)]
