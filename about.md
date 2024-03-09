@@ -17,7 +17,7 @@ permalink: /pubs
 
 ### In Conferences
 
-1. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the sizes of constrained subcodes of Reed-Muller codes**," accepted to the 30th National Conference on Communications (NCC) 2024. [[arXiv full version](https://arxiv.org/abs/2309.08907)]
+1. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the sizes of constrained subcodes of Reed-Muller codes**," accepted to the 30th National Conference on Communications (NCC) 2024. **Recipient of a Best Paper Award**. [[arXiv full version](https://arxiv.org/abs/2309.08907)]
 
 2. V. Arvind Rameshwar and Navin Kashyap, "**A version of Delsarte's linear program for constrained systems**," 2023 IEEE International Symposium on Information Theory (ISIT).  **Recipient of a Jack Keil Wolf ISIT Student Paper Award**. [[arXiv full version](https://arxiv.org/abs/2301.05098)]
 
