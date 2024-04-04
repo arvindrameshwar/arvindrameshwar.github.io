@@ -10,7 +10,7 @@ permalink: /pubs
 
 1. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the weight enumerators of Reed-Muller codes**," under review at the IEEE Transactions on Information Theory, Mar. 2024. [[arXiv](https://arxiv.org/abs/2403.05893)]
 
-2. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean Estimation with User-Level Privacy for Spatio-Temporal IoT Datasets**," under review at the IEEE Transactions on Knowledge and Data Engineering, Mar. 2024. [[arXiv](https://arxiv.org/abs/2401.15906)]
+2. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean Estimation with User-Level Privacy for Spatio-Temporal IoT Datasets**," under review at the IEEE Transactions on Vehicular Technology, Apr. 2024. [[arXiv](https://arxiv.org/abs/2401.15906)]
 
 3. V. Arvind Rameshwar and Navin Kashyap, "**Estimating the Sizes of Binary Error-Correcting Constrained Codes**," in IEEE Journal on Selected Areas in Information Theory, vol. 4, pp. 144-158, 2023, doi: 10.1109/JSAIT.2023.3279113. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10131968)][[arXiv](https://arxiv.org/abs/2301.05098)]
 
