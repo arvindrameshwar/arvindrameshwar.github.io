@@ -21,35 +21,39 @@ permalink: /pubs
 
 ### In Conferences
 
-1. Prajjwal Gupta, V. Arvind Rameshwar, Anshoo Tandon, Novoneel Chakraborty, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," accepted to the 2024 IEEE International Conference on Signal Processing and Communications (SPCOM). [[arXiv full version](https://arxiv.org/abs/2401.15906)]
+1. V. Arvind Rameshwar and Nir Weinberger, ""**Information Rates Over DMCs With Many Independent Views**". [[full version]({{ site.baseurl }}/arvind_nir_multi_view.pdf)]
 
-2. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the sizes of constrained subcodes of Reed-Muller codes**," 30th National Conference on Communications (NCC) 2024. **Recipient of a Best Paper Award**. [[arXiv full version](https://arxiv.org/abs/2309.08907)]
+2. Shreyas Jain, V. Arvind Rameshwar, and Navin Kashyap, "**Estimating the weight enumerators of Reed-Muller codes via sampling**," accepted to the 2024 IEEE International Symposium on Information Theory (ISIT). [[arXiv](https://arxiv.org/abs/2403.05893)]
 
-3. V. Arvind Rameshwar and Navin Kashyap, "**A version of Delsarte's linear program for constrained systems**," 2023 IEEE International Symposium on Information Theory (ISIT).  **Recipient of a Jack Keil Wolf ISIT Student Paper Award**. [[arXiv full version](https://arxiv.org/abs/2301.05098)]
+3. Prajjwal Gupta, V. Arvind Rameshwar, Anshoo Tandon, Novoneel Chakraborty, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," accepted to the 2024 IEEE International Conference on Signal Processing and Communications (SPCOM). [[arXiv full version](https://arxiv.org/abs/2401.15906)]
 
-4. V. Arvind Rameshwar and Navin Kashyap, "**Counting constrained codewords in binary linear codes via Fourier expansions**," 2023 IEEE International Symposium on Information Theory (ISIT). [[arXiv full version](https://arxiv.org/abs/2301.05098)]
+4. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the sizes of constrained subcodes of Reed-Muller codes**," 30th National Conference on Communications (NCC) 2024. **Recipient of a Best Paper Award**. [[arXiv full version](https://arxiv.org/abs/2309.08907)]
 
-5. V. Arvind Rameshwar and Navin Kashyap, “**Linear runlength-limited subcodes of Reed-Muller codes and coding schemes for input-constrained BMS channels**," 2022 IEEE Information Theory Workshop (ITW). [[IEEE Xplore](https://ieeexplore.ieee.org/document/9965911)][[arXiv full version](https://arxiv.org/abs/2205.04153)]
+5. V. Arvind Rameshwar and Navin Kashyap, "**A version of Delsarte's linear program for constrained systems**," 2023 IEEE International Symposium on Information Theory (ISIT).  **Recipient of a Jack Keil Wolf ISIT Student Paper Award**. [[arXiv full version](https://arxiv.org/abs/2301.05098)]
 
-6. V. Arvind Rameshwar and Navin Kashyap, "**A feedback capacity-achieving coding scheme for the $(d,\infty)$-RLL input-constrained binary erasure channel**," 2022 IEEE International Conference on Signal Processing and Communications (SPCOM). **Recipient of a Best Student Paper Award**. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9840852)][[arXiv full version](https://arxiv.org/abs/2204.06780)]
+6. V. Arvind Rameshwar and Navin Kashyap, "**Counting constrained codewords in binary linear codes via Fourier expansions**," 2023 IEEE International Symposium on Information Theory (ISIT). [[arXiv full version](https://arxiv.org/abs/2301.05098)]
 
-7. V. Arvind Rameshwar and Navin Kashyap, “**On the performance of Reed-Muller codes Over $(d,\infty)$-RLL input-constrained BMS channels**,” 2022 International Symposium on Information Theory (ISIT), Espoo, Finland, Jun. 2022. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9834876?signout=success)][[arXiv full version](https://arxiv.org/abs/2201.02035)]
+7. V. Arvind Rameshwar and Navin Kashyap, “**Linear runlength-limited subcodes of Reed-Muller codes and coding schemes for input-constrained BMS channels**," 2022 IEEE Information Theory Workshop (ITW). [[IEEE Xplore](https://ieeexplore.ieee.org/document/9965911)][[arXiv full version](https://arxiv.org/abs/2205.04153)]
 
-8. V. Arvind Rameshwar and Navin Kashyap, “**Numerically computable lower bounds on the capacity of the $(1,\infty)$-RLL input-constrained binary erasure channel**,” National Conference on Communications (NCC), 2021. **Recipient of a Best Paper Award**. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9530025)]
+8. V. Arvind Rameshwar and Navin Kashyap, "**A feedback capacity-achieving coding scheme for the $(d,\infty)$-RLL input-constrained binary erasure channel**," 2022 IEEE International Conference on Signal Processing and Communications (SPCOM). **Recipient of a Best Student Paper Award**. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9840852)][[arXiv full version](https://arxiv.org/abs/2204.06780)]
 
-9. V. Arvind Rameshwar and Navin Kashyap, “**Bounds on the feedback capacity of the $(d,\infty)$-RLL input-constrained binary erasure channel**,” accepted to the International Symposium on Information Theory (ISIT) 2021. [[arXiv full version](https://arxiv.org/abs/2101.08638)][[IEEE Xplore](https://ieeexplore.ieee.org/document/9518138)]
+9. V. Arvind Rameshwar and Navin Kashyap, “**On the performance of Reed-Muller codes Over $(d,\infty)$-RLL input-constrained BMS channels**,” 2022 International Symposium on Information Theory (ISIT), Espoo, Finland, Jun. 2022. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9834876?signout=success)][[arXiv full version](https://arxiv.org/abs/2201.02035)]
 
-10. V. Arvind Rameshwar, Aryabhatt M. Reghu, and Navin Kashyap, “**On the capacity of the flash memory channel with feedback**,” in 2020 International Symposium on Information Theory and its Applications (ISITA2020), Kapolei, USA, Oct. 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9366100)]
+10. V. Arvind Rameshwar and Navin Kashyap, “**Numerically computable lower bounds on the capacity of the $(1,\infty)$-RLL input-constrained binary erasure channel**,” National Conference on Communications (NCC), 2021. **Recipient of a Best Paper Award**. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9530025)]
 
-11. V. Arvind Rameshwar and Navin Kashyap, “**Computable lower bounds for capacities of input-driven finite-state channels**,” in Proc. 2020 International Symposium on Information Theory (ISIT 2020), Los Angeles, California, USA, Jun. 21--26, 2020. [[arXiv full version](https://arxiv.org/abs/2001.03423)]
+11. V. Arvind Rameshwar and Navin Kashyap, “**Bounds on the feedback capacity of the $(d,\infty)$-RLL input-constrained binary erasure channel**,” accepted to the International Symposium on Information Theory (ISIT) 2021. [[arXiv full version](https://arxiv.org/abs/2101.08638)][[IEEE Xplore](https://ieeexplore.ieee.org/document/9518138)]
 
-12. V. Arvind Rameshwar and Navin Kashyap, “**Achieving secrecy capacity of minimum storage regenerating codes for all feasible $(n,k,d)$ parameter values**,” in 2019 National Conference on Communications (NCC), pp. 1--6, 2019. **Finalist for a Best Paper Award**. [[arXiv](https://arxiv.org/abs/1902.09865)][[IEEE Xplore](https://ieeexplore.ieee.org/document/8732243)]
+12. V. Arvind Rameshwar, Aryabhatt M. Reghu, and Navin Kashyap, “**On the capacity of the flash memory channel with feedback**,” in 2020 International Symposium on Information Theory and its Applications (ISITA2020), Kapolei, USA, Oct. 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9366100)]
 
-13. V. Arvind Rameshwar, Dusi Aditya, M. Balasubramanian, U. Poorna Lakshmi, and Prasant Kumar Pattnaik, “**Effect of longitudinal and shear stress on photonic crystal-based ring resonator**,” in 2018 3<sup>rd</sup> International Conference on Microwave and Photonics (ICMAP), pp. 1--2, Feb. 2018. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8354569)]
+13. V. Arvind Rameshwar and Navin Kashyap, “**Computable lower bounds for capacities of input-driven finite-state channels**,” in Proc. 2020 International Symposium on Information Theory (ISIT 2020), Los Angeles, California, USA, Jun. 21--26, 2020. [[arXiv full version](https://arxiv.org/abs/2001.03423)]
 
-14. D. Shivakrishna, V. Arvind Rameshwar, Vadlamani Lalitha, and Birenjith Sasidharan, “**On maximally recoverable codes for product topologies**,” in 2018 Twenty Fourth National Conference on Communications (NCC), pp. 1--6, Feb. 2018. [[arXiv](https://arxiv.org/abs/1801.03379)][[IEEE Xplore](https://ieeexplore.ieee.org/document/8599965)]
+14. V. Arvind Rameshwar and Navin Kashyap, “**Achieving secrecy capacity of minimum storage regenerating codes for all feasible $(n,k,d)$ parameter values**,” in 2019 National Conference on Communications (NCC), pp. 1--6, 2019. **Finalist for a Best Paper Award**. [[arXiv](https://arxiv.org/abs/1902.09865)][[IEEE Xplore](https://ieeexplore.ieee.org/document/8732243)]
 
-15. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal matchings**,” in Computing and Combinatorics -- 23<sup>rd</sup> International Conference, COCOON 2017, Hong Kong, China, August 3--5, 2017, Proceedings (Y. Cao and J. Chen, eds.), vol. 10392 of Lecture Notes in Computer Science, pp. 433--444, Springer, 2017. [[arXiv full version](https://arxiv.org/abs/1704.00899)]
+15. V. Arvind Rameshwar, Dusi Aditya, M. Balasubramanian, U. Poorna Lakshmi, and Prasant Kumar Pattnaik, “**Effect of longitudinal and shear stress on photonic crystal-based ring resonator**,” in 2018 3<sup>rd</sup> International Conference on Microwave and Photonics (ICMAP), pp. 1--2, Feb. 2018. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8354569)]
+
+16. D. Shivakrishna, V. Arvind Rameshwar, Vadlamani Lalitha, and Birenjith Sasidharan, “**On maximally recoverable codes for product topologies**,” in 2018 Twenty Fourth National Conference on Communications (NCC), pp. 1--6, Feb. 2018. [[arXiv](https://arxiv.org/abs/1801.03379)][[IEEE Xplore](https://ieeexplore.ieee.org/document/8599965)]
+
+17. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal matchings**,” in Computing and Combinatorics -- 23<sup>rd</sup> International Conference, COCOON 2017, Hong Kong, China, August 3--5, 2017, Proceedings (Y. Cao and J. Chen, eds.), vol. 10392 of Lecture Notes in Computer Science, pp. 433--444, Springer, 2017. [[arXiv full version](https://arxiv.org/abs/1704.00899)]
 
 ### As Unpublished Preprints
 
