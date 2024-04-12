@@ -21,7 +21,7 @@ permalink: /pubs
 
 ### In Conferences
 
-1. V. Arvind Rameshwar and Nir Weinberger, ""**Information Rates Over DMCs With Many Independent Views**," accepted to the 2024 IEEE International Symposium on Information Theory (ISIT). [[full version]({{ site.baseurl }}/arvind_nir_multi_view.pdf)]
+1. V. Arvind Rameshwar and Nir Weinberger, ""**Information rates over DMCs with many independent views**," accepted to the 2024 IEEE International Symposium on Information Theory (ISIT). [[full version]({{ site.baseurl }}/arvind_nir_multi_view.pdf)]
 
 2. Shreyas Jain, V. Arvind Rameshwar, and Navin Kashyap, "**Estimating the weight enumerators of Reed-Muller codes via sampling**," accepted to the 2024 IEEE International Symposium on Information Theory (ISIT). [[arXiv](https://arxiv.org/abs/2403.05893)]
 
