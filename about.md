@@ -21,7 +21,7 @@ permalink: /pubs
 
 ### In Conferences
 
-1. V. Arvind Rameshwar and Nir Weinberger, ""**Information Rates Over DMCs With Many Independent Views**". [[full version]({{ site.baseurl }}/arvind_nir_multi_view.pdf)]
+1. V. Arvind Rameshwar and Nir Weinberger, ""**Information Rates Over DMCs With Many Independent Views**," accepted to the 2024 IEEE International Symposium on Information Theory (ISIT). [[full version]({{ site.baseurl }}/arvind_nir_multi_view.pdf)]
 
 2. Shreyas Jain, V. Arvind Rameshwar, and Navin Kashyap, "**Estimating the weight enumerators of Reed-Muller codes via sampling**," accepted to the 2024 IEEE International Symposium on Information Theory (ISIT). [[arXiv](https://arxiv.org/abs/2403.05893)]
 
@@ -56,6 +56,3 @@ permalink: /pubs
 17. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal matchings**,” in Computing and Combinatorics -- 23<sup>rd</sup> International Conference, COCOON 2017, Hong Kong, China, August 3--5, 2017, Proceedings (Y. Cao and J. Chen, eds.), vol. 10392 of Lecture Notes in Computer Science, pp. 433--444, Springer, 2017. [[arXiv full version](https://arxiv.org/abs/1704.00899)]
 
 ### As Unpublished Preprints
-
-1. V. Arvind Rameshwar and Nir Weinberger, "**Information Rates Over DMCs With Many Independent Views**". [[full version]]({{ site.baseurl }}/arvind_nir_multi_view.pdf)
-   
