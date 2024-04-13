@@ -59,4 +59,6 @@ permalink: /pubs
 
 1. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**User-Level Differentially Private Mean Estimation for Real-World Datasets**," accepted to the ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning (IT-TML). [[full version](https://arxiv.org/abs/2401.15906)]
 
+2. Vivian Papadopoulou, V. Arvind Rameshwar, Antonia Wachter-Zeh, "**Sequence Reconstruction over Exact-$t$ Adversarial Channel Repetitions: An Average Case Analysis**," in Munich Workshop on Coding and Cryptography 2024.
+
 ### As Unpublished Preprints
