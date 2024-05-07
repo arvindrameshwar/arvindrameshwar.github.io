@@ -57,8 +57,11 @@ permalink: /pubs
 
 ### As Posters in Workshops
 
-1. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**User-Level Differentially Private Mean Estimation for Real-World Datasets**," accepted to the ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning (IT-TML). [[full version](https://arxiv.org/abs/2401.15906)]
+1. Vivian Papadopoulou, V. Arvind Rameshwar, Antonia Wachter-Zeh, "**On Exact Sequence Reconstruction Over a
+Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and Algorithms for DNA-based Data Storage at the ISIT 2024. [[abstract]({{ site.baseurl }}/average-case-reconstruction-abstract-isit.pdf)]
 
-2. Vivian Papadopoulou, V. Arvind Rameshwar, Antonia Wachter-Zeh, "**Sequence Reconstruction over Exact-$t$ Adversarial Channel Repetitions: An Average Case Analysis**," in Munich Workshop on Coding and Cryptography 2024. [[poster]({{ site.baseurl }}/average-case-reconstruction-poster.pdf)]
+2. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**User-Level Differentially Private Mean Estimation for Real-World Datasets**," accepted to the ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning (IT-TML). [[full version](https://arxiv.org/abs/2401.15906)]
+
+3. Vivian Papadopoulou, V. Arvind Rameshwar, Antonia Wachter-Zeh, "**Sequence Reconstruction over Exact-$t$ Adversarial Channel Repetitions: An Average Case Analysis**," in Munich Workshop on Coding and Cryptography 2024. [[poster]({{ site.baseurl }}/average-case-reconstruction-poster.pdf)]
 
 ### As Unpublished Preprints
