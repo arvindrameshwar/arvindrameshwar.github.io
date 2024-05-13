@@ -8,7 +8,7 @@ permalink: /pubs
 
 ### In Journals
 
-1. V. Arvind Rameshwar and Nir Weinberger, ""**Information rates over multi-view channels**," submitted to the IEEE Transactions on Information Theory. [[full version]({{ site.baseurl }}/arvind_nir_multi_view.pdf)]
+1. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over multi-view channels**," under review at the IEEE Transactions on Information Theory, May 2024. [[full version]({{ site.baseurl }}/arvind_nir_multi_view.pdf)]
 
 2. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the weight enumerators of Reed-Muller codes**," under review at the IEEE Transactions on Information Theory, Mar. 2024. [[arXiv](https://arxiv.org/abs/2403.05893)]
 
@@ -68,4 +68,4 @@ Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and A
 
 ### As Unpublished Preprints
 
-1. V. Arvind Rameshwar and Anshoo Tandon, "**Improving the Privacy Loss Under User-Level DP Composition for Fixed Estimation Error**". [[full version]({{ site.baseurl }}/popets24.pdf)]
+1. V. Arvind Rameshwar and Anshoo Tandon, "**Improving the Privacy Loss Under User-Level DP Composition for Fixed Estimation Error**," May 2024. [[arXiv full version](https://arxiv.org/abs/2405.06261)]
