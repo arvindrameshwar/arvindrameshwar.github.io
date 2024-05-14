@@ -8,7 +8,7 @@ permalink: /pubs
 
 ### In Journals
 
-1. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over multi-view channels**," under review at the IEEE Transactions on Information Theory, May 2024. [[full version]({{ site.baseurl }}/arvind_nir_multi_view.pdf)]
+1. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over multi-view channels**," under review at the IEEE Transactions on Information Theory, May 2024. [[arXiv full version](https://arxiv.org/abs/2405.07264)]
 
 2. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the weight enumerators of Reed-Muller codes**," under review at the IEEE Transactions on Information Theory, Mar. 2024. [[arXiv](https://arxiv.org/abs/2403.05893)]
 
@@ -23,7 +23,7 @@ permalink: /pubs
 
 ### In Conferences
 
-1. V. Arvind Rameshwar and Nir Weinberger, ""**Information rates over DMCs with many independent views**," accepted to the 2024 IEEE International Symposium on Information Theory (ISIT). [[full version]({{ site.baseurl }}/arvind_nir_multi_view.pdf)]
+1. V. Arvind Rameshwar and Nir Weinberger, ""**Information rates over DMCs with many independent views**," accepted to the 2024 IEEE International Symposium on Information Theory (ISIT). [[full version](https://arxiv.org/abs/2405.07264)]
 
 2. Shreyas Jain, V. Arvind Rameshwar, and Navin Kashyap, "**Estimating the weight enumerators of Reed-Muller codes via sampling**," accepted to the 2024 IEEE International Symposium on Information Theory (ISIT). [[arXiv](https://arxiv.org/abs/2403.05893)]
 
