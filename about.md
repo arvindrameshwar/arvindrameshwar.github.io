@@ -6,7 +6,7 @@ permalink: /pubs
 
 **Disclaimer**: Copyright belongs to the publisher in the case of published articles. Copyright belongs to the author/authors in all other cases.
 
-### As Full Papers In Journals Or Conferences
+### As Full Papers in Journals or Conferences
 
 1. V. Arvind Rameshwar and Anshoo Tandon, "**Improving the Privacy Loss Under User-Level DP Composition for Fixed Estimation Error**," submitted May 2024. [[arXiv full version](https://arxiv.org/abs/2405.06261)]
 
