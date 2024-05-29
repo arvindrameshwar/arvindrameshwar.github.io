@@ -6,19 +6,21 @@ permalink: /pubs
 
 **Disclaimer**: Copyright belongs to the publisher in the case of published articles. Copyright belongs to the author/authors in all other cases.
 
-### In Journals
+### As Full Papers In Journals Or Conferences
 
-1. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over multi-view channels**," under review at the IEEE Transactions on Information Theory, May 2024. [[arXiv](https://arxiv.org/abs/2405.07264)]
+1. V. Arvind Rameshwar and Anshoo Tandon, "**Improving the Privacy Loss Under User-Level DP Composition for Fixed Estimation Error**," submitted May 2024. [[arXiv full version](https://arxiv.org/abs/2405.06261)]
 
-2. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the weight enumerators of Reed-Muller codes**," under review at the IEEE Transactions on Information Theory, Mar. 2024. [[arXiv](https://arxiv.org/abs/2403.05893)]
+2. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over multi-view channels**," under review at the IEEE Transactions on Information Theory, May 2024. [[arXiv](https://arxiv.org/abs/2405.07264)]
 
-3. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," under review at the ACM Transactions on Privacy and Security, Apr. 2024. [[arXiv](https://arxiv.org/abs/2401.15906)]
+3. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the weight enumerators of Reed-Muller codes**," under review at the IEEE Transactions on Information Theory, Mar. 2024. [[arXiv](https://arxiv.org/abs/2403.05893)]
 
-4. V. Arvind Rameshwar and Navin Kashyap, "**Estimating the sizes of binary error-correcting constrained codes**," in IEEE Journal on Selected Areas in Information Theory, vol. 4, pp. 144-158, 2023, doi: 10.1109/JSAIT.2023.3279113. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10131968)][[arXiv](https://arxiv.org/abs/2301.05098)]
+4. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," under review at the ACM Transactions on Privacy and Security, Apr. 2024. [[arXiv](https://arxiv.org/abs/2401.15906)]
 
-5. V. Arvind Rameshwar and Navin Kashyap, "**Coding schemes based on Reed-Muller codes for $(d,\infty)$-RLL input-constrained channels**," in IEEE Transactions on Information Theory, vol. 69, no. 11, pp. 7003-7024, Nov. 2023, doi: 10.1109/TIT.2023.3296207. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10185128)][[arXiv](https://arxiv.org/abs/2211.05513)]
+5. V. Arvind Rameshwar and Navin Kashyap, "**Estimating the sizes of binary error-correcting constrained codes**," in IEEE Journal on Selected Areas in Information Theory, vol. 4, pp. 144-158, 2023, doi: 10.1109/JSAIT.2023.3279113. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10131968)][[arXiv](https://arxiv.org/abs/2301.05098)]
 
-6. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal and popular matchings**,” Journal of Combinatorial Optimization, vol. 37, no. 2, pp. 523--545, 2019. [[SpringerLink](https://link.springer.com/article/10.1007/s10878-018-0348-9#:~:text=A%20matching%20M%20in%20G,and%20deleted%20at%20any%20point.)]
+6. V. Arvind Rameshwar and Navin Kashyap, "**Coding schemes based on Reed-Muller codes for $(d,\infty)$-RLL input-constrained channels**," in IEEE Transactions on Information Theory, vol. 69, no. 11, pp. 7003-7024, Nov. 2023, doi: 10.1109/TIT.2023.3296207. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10185128)][[arXiv](https://arxiv.org/abs/2211.05513)]
+
+7. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal and popular matchings**,” Journal of Combinatorial Optimization, vol. 37, no. 2, pp. 523--545, 2019. [[SpringerLink](https://link.springer.com/article/10.1007/s10878-018-0348-9#:~:text=A%20matching%20M%20in%20G,and%20deleted%20at%20any%20point.)]
  
 
 ### In Conferences
@@ -67,5 +69,3 @@ Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and A
 3. Vivian Papadopoulou, V. Arvind Rameshwar, Antonia Wachter-Zeh, "**Sequence Reconstruction over Exact-$t$ Adversarial Channel Repetitions: An Average Case Analysis**," in Munich Workshop on Coding and Cryptography 2024. [[poster]({{ site.baseurl }}/average-case-reconstruction-poster.pdf)]
 
 ### As Unpublished Preprints
-
-1. V. Arvind Rameshwar and Anshoo Tandon, "**Improving the Privacy Loss Under User-Level DP Composition for Fixed Estimation Error**," May 2024. [[arXiv full version](https://arxiv.org/abs/2405.06261)]
