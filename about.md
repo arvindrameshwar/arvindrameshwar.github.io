@@ -8,7 +8,7 @@ permalink: /pubs
 
 ### As Full Papers in Journals or Conferences
 
-1. V. Arvind Rameshwar and Anshoo Tandon, "**Improving the privacy loss under user-level DP composition for fixed estimation error**," submitted May 2024. [[arXiv full version](https://arxiv.org/abs/2405.06261)]
+1. V. Arvind Rameshwar and Anshoo Tandon, "**Improving the privacy loss under user-level DP composition for fixed estimation error**," submitted May 2024. [[arXiv](https://arxiv.org/abs/2405.06261)]
 
 2. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over multi-view channels**," under review at the IEEE Transactions on Information Theory, May 2024. [[arXiv](https://arxiv.org/abs/2405.07264)]
 
