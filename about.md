@@ -23,7 +23,7 @@ permalink: /pubs
 7. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal and popular matchings**,” Journal of Combinatorial Optimization, vol. 37, no. 2, pp. 523--545, 2019. [[SpringerLink](https://link.springer.com/article/10.1007/s10878-018-0348-9#:~:text=A%20matching%20M%20in%20G,and%20deleted%20at%20any%20point.)]
  
 
-### In Conferences
+### As Short Conference Papers
 
 1. V. Arvind Rameshwar and Nir Weinberger, ""**Information rates over DMCs with many independent views**," accepted to the 2024 IEEE International Symposium on Information Theory (ISIT). [[full version](https://arxiv.org/abs/2405.07264)]
 
