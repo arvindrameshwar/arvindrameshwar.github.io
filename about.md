@@ -27,7 +27,7 @@ permalink: /pubs
 
 1. Vivian Papadopoulou, V. Arvind Rameshwar, Antonia Wachter-Zeh, "**How Many Noisy Copies of a Sequence are Needed on Average for Exact Reconstruction?**," accepted to the 2024 IEEE Information Theory Workshop (ITW), Shenzhen, China.
 
-2. V. Arvind Rameshwar and Nir Weinberger, ""**Information rates over DMCs with many independent views**,"  2024 IEEE International Symposium on Information Theory (ISIT), Athens, Greece. [[full version](https://arxiv.org/abs/2405.07264)]
+2. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over DMCs with many independent views**,"  2024 IEEE International Symposium on Information Theory (ISIT), Athens, Greece. [[full version](https://arxiv.org/abs/2405.07264)]
 
 3. Shreyas Jain, V. Arvind Rameshwar, and Navin Kashyap, "**Estimating the weight enumerators of Reed-Muller codes via sampling**," 2024 IEEE International Symposium on Information Theory (ISIT), Athens, Greece. [[arXiv](https://arxiv.org/abs/2403.05893)]
 
