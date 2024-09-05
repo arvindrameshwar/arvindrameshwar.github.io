@@ -27,17 +27,17 @@ permalink: /pubs
 
 1. Vivian Papadopoulou, V. Arvind Rameshwar, Antonia Wachter-Zeh, "**How Many Noisy Copies of a Sequence are Needed on Average for Exact Reconstruction?**," accepted to the 2024 IEEE Information Theory Workshop (ITW), Shenzhen, China.
 
-2. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over DMCs with many independent views**,"  2024 IEEE International Symposium on Information Theory (ISIT), Athens, Greece. [[full version](https://arxiv.org/abs/2405.07264)]
+2. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over DMCs with many independent views**,"  2024 IEEE International Symposium on Information Theory (ISIT), Athens, Greece. [[arXiv full version](https://arxiv.org/abs/2405.07264)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10619212)]
 
-3. Shreyas Jain, V. Arvind Rameshwar, and Navin Kashyap, "**Estimating the weight enumerators of Reed-Muller codes via sampling**," 2024 IEEE International Symposium on Information Theory (ISIT), Athens, Greece. [[arXiv](https://arxiv.org/abs/2403.05893)]
+3. Shreyas Jain, V. Arvind Rameshwar, and Navin Kashyap, "**Estimating the weight enumerators of Reed-Muller codes via sampling**," 2024 IEEE International Symposium on Information Theory (ISIT), Athens, Greece. [[arXiv](https://arxiv.org/abs/2403.05893)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10619284)]
 
-4. Prajjwal Gupta, V. Arvind Rameshwar, Anshoo Tandon, Novoneel Chakraborty, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024 IEEE International Conference on Signal Processing and Communications (SPCOM). **Finalist for a Best Paper Award**. [[arXiv full version](https://arxiv.org/abs/2401.15906)]
+4. Prajjwal Gupta, V. Arvind Rameshwar, Anshoo Tandon, Novoneel Chakraborty, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024 IEEE International Conference on Signal Processing and Communications (SPCOM). **Finalist for a Best Paper Award**. [[arXiv full version](https://arxiv.org/abs/2401.15906)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10631607)]
 
-5. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the sizes of constrained subcodes of Reed-Muller codes**," 30th National Conference on Communications (NCC) 2024. **Recipient of a Best Paper Award**. [[arXiv full version](https://arxiv.org/abs/2309.08907)]
+5. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the sizes of constrained subcodes of Reed-Muller codes**," 30th National Conference on Communications (NCC) 2024. **Recipient of a Best Paper Award**. [[arXiv full version](https://arxiv.org/abs/2309.08907)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10485899)]
 
-6. V. Arvind Rameshwar and Navin Kashyap, "**A version of Delsarte's linear program for constrained systems**," 2023 IEEE International Symposium on Information Theory (ISIT).  **Recipient of a Jack Keil Wolf ISIT Student Paper Award**. [[arXiv full version](https://arxiv.org/abs/2301.05098)]
+6. V. Arvind Rameshwar and Navin Kashyap, "**A version of Delsarte's linear program for constrained systems**," 2023 IEEE International Symposium on Information Theory (ISIT).  **Recipient of a Jack Keil Wolf ISIT Student Paper Award**. [[arXiv full version](https://arxiv.org/abs/2301.05098)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10206570)]
 
-7. V. Arvind Rameshwar and Navin Kashyap, "**Counting constrained codewords in binary linear codes via Fourier expansions**," 2023 IEEE International Symposium on Information Theory (ISIT). [[arXiv full version](https://arxiv.org/abs/2301.05098)]
+7. V. Arvind Rameshwar and Navin Kashyap, "**Counting constrained codewords in binary linear codes via Fourier expansions**," 2023 IEEE International Symposium on Information Theory (ISIT). [[arXiv full version](https://arxiv.org/abs/2301.05098)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10206631)]
 
 8. V. Arvind Rameshwar and Navin Kashyap, “**Linear runlength-limited subcodes of Reed-Muller codes and coding schemes for input-constrained BMS channels**," 2022 IEEE Information Theory Workshop (ITW). [[IEEE Xplore](https://ieeexplore.ieee.org/document/9965911)][[arXiv full version](https://arxiv.org/abs/2205.04153)]
 
