@@ -12,7 +12,7 @@ permalink: /pubs
 
 2. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over multi-view channels**," under review at the IEEE Transactions on Information Theory, May 2024. [[arXiv](https://arxiv.org/abs/2405.07264)]
 
-3. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the weight enumerators of Reed-Muller codes**," under review at the IEEE Transactions on Information Theory, Mar. 2024. [[arXiv](https://arxiv.org/abs/2403.05893)]
+3. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the weight enumerators of Reed-Muller codes**," under review at the IEEE Transactions on Communications, Sep. 2024. [[arXiv](https://arxiv.org/abs/2403.05893)]
 
 4. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," under review at the ACM Transactions on Privacy and Security, Apr. 2024. [[arXiv](https://arxiv.org/abs/2401.15906)]
 
