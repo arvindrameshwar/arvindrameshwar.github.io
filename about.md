@@ -71,3 +71,5 @@ Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and A
 3. Vivian Papadopoulou, V. Arvind Rameshwar, Antonia Wachter-Zeh, "**Sequence Reconstruction over Exact-$t$ Adversarial Channel Repetitions: An Average Case Analysis**," in Munich Workshop on Coding and Cryptography 2024. [[poster]({{ site.baseurl }}/average-case-reconstruction-poster.pdf)]
 
 ### As Unpublished Preprints
+
+1. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**". [[arXiv full version](https://arxiv.org/abs/2409.18573)]
