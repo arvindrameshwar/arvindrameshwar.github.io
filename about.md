@@ -72,4 +72,4 @@ Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and A
 
 ### As Unpublished Preprints
 
-1. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**". [[arXiv full version](https://arxiv.org/abs/2409.18573)]
+1. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**," Sep. 2024. [[arXiv full version](https://arxiv.org/abs/2409.18573)]
