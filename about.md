@@ -8,7 +8,7 @@ permalink: /pubs
 
 ### As Full Papers in Journals or Conferences
 
-1. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**," under review at the IEEE Transactions on Information Forensics and Security, Oct. 2024. [[arXiv full version](https://arxiv.org/abs/2409.18573)]
+1. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**," under review at the IEEE Transactions on Information Forensics and Security, Oct. 2024. [[arXiv](https://arxiv.org/abs/2409.18573)]
 
 2. V. Arvind Rameshwar and Anshoo Tandon, "**Improving the privacy loss under user-level DP composition for fixed estimation error**," under review at the IEEE Transactions on Information Theory, Aug. 2024. [[arXiv](https://arxiv.org/abs/2405.06261)]
 
