@@ -5,8 +5,8 @@ permalink: /talks
 ---
 
 ### Invited Talks
-1. "**Multi-View Channels**," at the Indian Institute of Technology (IIT) Madras, Chennai, Dec. 2024.
-2. "**Differentially Private Release of Spatio-Temporal Data Statistics**," in the Networks Seminar Series - Centre for Networked Intelligence, IISc, Nov. 2024.
+1. "**Multi-View Channels**," at the Indian Institute of Technology (IIT) Madras, Chennai, Dec. 2024. [[slides]]({{ site.baseurl }}/iitm-multi-view.pdf)
+2. "**Differentially Private Release of Spatio-Temporal Data Statistics**," in the Networks Seminar Series - Centre for Networked Intelligence, IISc, Nov. 2024. [[slides]]({{ site.baseurl }}/cni-iudx.pdf)
 3. "**Sampling-Based Estimates of Weight Enumerators of Reed-Muller Codes**," at the 2023 Information Theory and Applications Workshop, San Diego, Mar. 2024 (by Prof. Navin Kashyap). [[slides]]({{ site.baseurl }}/RMcodes_ita2024_talk.pdf)
 4. "**Coding Schemes Using Constrained Subcodes Over Input-Constrained Channels**," at the Technical University of Munich, Munich, Sep. 2023. [[slides]]({{ site.baseurl }}/talk.pdf)
 5. "**Coding Schemes for Input-Constrained Channels**," in the Networks Seminar Series - Centre for Networked Intelligence, IISc, Feb. 2023. [[slides]]({{ site.baseurl }}/cni_talk.pdf)
