@@ -12,7 +12,7 @@ permalink: /pubs
 
 2. V. Arvind Rameshwar and Anshoo Tandon, "**Improving the privacy loss under user-level DP composition for fixed estimation error**," under review at the IEEE Transactions on Information Theory, Aug. 2024. [[arXiv](https://arxiv.org/abs/2405.06261)]
 
-3. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over multi-view channels**," under review at the IEEE Transactions on Information Theory, May 2024. [[arXiv](https://arxiv.org/abs/2405.07264)]
+3. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over multi-view channels**," to appear in the IEEE Transactions on Information Theory, accepted Dec. 2024. [[arXiv](https://arxiv.org/abs/2405.07264)]
 
 4. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the weight enumerators of Reed-Muller codes**," under review at the IEEE Transactions on Communications, Sep. 2024. [[arXiv](https://arxiv.org/abs/2403.05893)]
 
@@ -74,4 +74,6 @@ Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and A
 
 ### As Unpublished Preprints
  
-1. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
+1. V. Arvind Rameshwar and V. Lalitha, "**An Upper Bound on the Error Probability of RPA Decoding of Reed-Muller Codes Over the BSC**," Dec. 2024. [[arXiv](https://arxiv.org/abs/2412.08129)]
+
+2. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
