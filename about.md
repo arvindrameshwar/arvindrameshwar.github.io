@@ -74,6 +74,8 @@ Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and A
 
 ### As Unpublished Preprints
  
-1. V. Arvind Rameshwar and V. Lalitha, "**An upper bound on the error probability of RPA decoding of Reed-Muller codes over the BSC**," Dec. 2024. [[arXiv](https://arxiv.org/abs/2412.08129)]
+1. V. Arvind Rameshwar and Nir Weinberger, "**On achievable rates over noisy nanopore channels**," Jan. 2025. [[arXiv](https://arxiv.org/abs/2501.02917)]
 
-2. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
+2. V. Arvind Rameshwar and V. Lalitha, "**An upper bound on the error probability of RPA decoding of Reed-Muller codes over the BSC**," Dec. 2024. [[arXiv](https://arxiv.org/abs/2412.08129)]
+
+3. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
