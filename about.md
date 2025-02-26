@@ -29,7 +29,7 @@ permalink: /pubs
 
 1. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal tree-based mechanisms for differentially private approximate CDFs**," in Cyber Security and Privacy Workshop at the International Conference on Communication Systems and Networks (COMSNETS) 2025. [[arXiv full version](https://arxiv.org/abs/2409.18573)]
 
-2. Vivian Papadopoulou, V. Arvind Rameshwar, Antonia Wachter-Zeh, "**How Many Noisy Copies of a Sequence are Needed on Average for Exact Reconstruction?**," in 2024 IEEE Information Theory Workshop (ITW), Shenzhen, China.
+2. Vivian Papadopoulou, V. Arvind Rameshwar, Antonia Wachter-Zeh, "**On the expected number of views required for fixed-error sequence reconstruction**," in 2024 IEEE Information Theory Workshop (ITW), Shenzhen, China. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10806938))]
 
 3. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over DMCs with many independent views**,"  2024 IEEE International Symposium on Information Theory (ISIT), Athens, Greece. [[arXiv full version](https://arxiv.org/abs/2405.07264)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10619212)]
 
