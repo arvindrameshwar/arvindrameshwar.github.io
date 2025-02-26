@@ -8,7 +8,7 @@ permalink: /pubs
 
 ### As Full Papers in Journals or Conferences
 
-1. V. Arvind Rameshwar, Anshoo Tandon, ""**Bounding user contributions for user-level differentially private mean estimation**," under review at the IEEE Signal Processing Letters, Feb. 2025. [[arXiv](https://arxiv.org/abs/2502.04749)]
+1. V. Arvind Rameshwar, Anshoo Tandon, "**Bounding user contributions for user-level differentially private mean estimation**," under review at the IEEE Signal Processing Letters, Feb. 2025. [[arXiv](https://arxiv.org/abs/2502.04749)]
 
 2. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal tree-based mechanisms for differentially private approximate CDFs**," under review at the IEEE Transactions on Information Forensics and Security, Oct. 2024. [[arXiv](https://arxiv.org/abs/2409.18573)]
 
