@@ -77,7 +77,7 @@ Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and A
 
 2. V. Arvind Rameshwar and V. Lalitha, "**An upper bound on the error probability of RPA decoding of Reed-Muller codes over the BSC**," Dec. 2024. [[arXiv](https://arxiv.org/abs/2412.08129)]
 
-3. 2. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal tree-based mechanisms for differentially private approximate CDFs**," Oct. 2024. [[arXiv](https://arxiv.org/abs/2409.18573)]
+3. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal tree-based mechanisms for differentially private approximate CDFs**," Oct. 2024. [[arXiv](https://arxiv.org/abs/2409.18573)]
 
 4. V. Arvind Rameshwar and Anshoo Tandon, "**Improving the privacy loss under user-level DP composition for fixed estimation error**," under review at the IEEE Transactions on Information Theory, Aug. 2024. [[arXiv](https://arxiv.org/abs/2405.06261)]
 
