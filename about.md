@@ -79,6 +79,6 @@ Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and A
 
 3. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal tree-based mechanisms for differentially private approximate CDFs**," Oct. 2024. [[arXiv](https://arxiv.org/abs/2409.18573)]
 
-4. V. Arvind Rameshwar and Anshoo Tandon, "**Improving the privacy loss under user-level DP composition for fixed estimation error**," under review at the IEEE Transactions on Information Theory, Aug. 2024. [[arXiv](https://arxiv.org/abs/2405.06261)]
+4. V. Arvind Rameshwar and Anshoo Tandon, "**Improving the privacy loss under user-level DP composition for fixed estimation error**," Aug. 2024. [[arXiv](https://arxiv.org/abs/2405.06261)]
 
 5. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
