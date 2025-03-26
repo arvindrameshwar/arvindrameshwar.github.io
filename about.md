@@ -8,7 +8,7 @@ permalink: /pubs
 
 ### As Full Papers in Journals or Conferences
 
-1. V. Arvind Rameshwar and Anshoo Tandon, "**On improving the composition privacy loss in differential privacy for fixed estimation error**," Mar. 2025. [[arXiv](https://arxiv.org/abs/2405.06261)]
+1. V. Arvind Rameshwar and Anshoo Tandon, "**On improving the composition privacy loss in differential privacy for fixed estimation error**," resubmitted to the IEEE Transactions on Information Theory, Mar. 2025. [[arXiv](https://arxiv.org/abs/2405.06261)]
 
 2. V. Arvind Rameshwar and Anshoo Tandon, "**Bounding user contributions for user-level differentially private mean estimation**," under review at the IEEE Signal Processing Letters, Feb. 2025. [[arXiv](https://arxiv.org/abs/2502.04749)]
  
