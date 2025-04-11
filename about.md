@@ -6,6 +6,8 @@ permalink: /pubs
 
 **Disclaimer**: Copyright belongs to the publisher in the case of published articles. Copyright belongs to the author/authors in all other cases.
 
+<script src="https://bibbase.org/show?bib=https://dblp.org/pid/213/7525-1.bib&noBootstrap=1&jsonp=1"></script>
+
 ### As Full Papers in Journals or Conferences
 
 1. V. Arvind Rameshwar and Anshoo Tandon, "**On improving the composition privacy loss in differential privacy for fixed estimation error**," resubmitted to the IEEE Transactions on Information Theory, Mar. 2025. [[arXiv](https://arxiv.org/abs/2405.06261)]
