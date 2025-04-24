@@ -8,19 +8,23 @@ permalink: /pubs
 
 ### As Full Papers in Journals or Conferences
 
-1. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the weight enumerators of Reed-Muller codes**," accepted to the IEEE Transactions on Communications, Apr. 2025. [[arXiv](https://arxiv.org/abs/2403.05893)]
+1. V. Arvind Rameshwar and Nir Weinberger, "**On achievable rates over noisy nanopore channels**," under review at the IEEE Journal on Selected Areas in Information Theory, Apr. 2025. [[arXiv](https://arxiv.org/abs/2501.02917)]
 
-2. V. Arvind Rameshwar and Anshoo Tandon, "**On improving the composition privacy loss in differential privacy for fixed estimation error**," resubmitted to the IEEE Transactions on Information Theory, Mar. 2025. [[arXiv](https://arxiv.org/abs/2405.06261)]
+2. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the weight enumerators of Reed-Muller codes**," accepted to the IEEE Transactions on Communications, Apr. 2025. [[arXiv](https://arxiv.org/abs/2403.05893)]
 
-3. V. Arvind Rameshwar and Anshoo Tandon, "**Bounding user contributions for user-level differentially private mean estimation**," under review at the IEEE Signal Processing Letters, Feb. 2025. [[arXiv](https://arxiv.org/abs/2502.04749)]
+3. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**," under review at the IEEE Transactions on Signal Processing, Apr. 2025. [[arXiv](https://arxiv.org/abs/2409.18573)]
 
-4. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over multi-view channels**," in IEEE Transactions on Information Theory, vol. 71, no. 2, pp. 847-861, Feb. 2025, doi: 10.1109/TIT.2024.3518760. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10804170)] [[arXiv](https://arxiv.org/abs/2405.07264)]
+4. V. Arvind Rameshwar and Anshoo Tandon, "**On improving the composition privacy loss in differential privacy for fixed estimation error**," resubmitted to the IEEE Transactions on Information Theory, Mar. 2025. [[arXiv](https://arxiv.org/abs/2405.06261)]
 
-5. V. Arvind Rameshwar and Navin Kashyap, "**Estimating the sizes of binary error-correcting constrained codes**," in IEEE Journal on Selected Areas in Information Theory, vol. 4, pp. 144-158, 2023, doi: 10.1109/JSAIT.2023.3279113. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10131968)][[arXiv](https://arxiv.org/abs/2301.05098)]
+5. V. Arvind Rameshwar and Anshoo Tandon, "**Bounding user contributions for user-level differentially private mean estimation**," under review at the IEEE Signal Processing Letters, Feb. 2025. [[arXiv](https://arxiv.org/abs/2502.04749)]
 
-6. V. Arvind Rameshwar and Navin Kashyap, "**Coding schemes based on Reed-Muller codes for $(d,\infty)$-RLL input-constrained channels**," in IEEE Transactions on Information Theory, vol. 69, no. 11, pp. 7003-7024, Nov. 2023, doi: 10.1109/TIT.2023.3296207. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10185128)][[arXiv](https://arxiv.org/abs/2211.05513)]
+6. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over multi-view channels**," in IEEE Transactions on Information Theory, vol. 71, no. 2, pp. 847-861, Feb. 2025, doi: 10.1109/TIT.2024.3518760. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10804170)] [[arXiv](https://arxiv.org/abs/2405.07264)]
 
-7. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal and popular matchings**,” Journal of Combinatorial Optimization, vol. 37, no. 2, pp. 523--545, 2019. [[SpringerLink](https://link.springer.com/article/10.1007/s10878-018-0348-9#:~:text=A%20matching%20M%20in%20G,and%20deleted%20at%20any%20point.)]
+7. V. Arvind Rameshwar and Navin Kashyap, "**Estimating the sizes of binary error-correcting constrained codes**," in IEEE Journal on Selected Areas in Information Theory, vol. 4, pp. 144-158, 2023, doi: 10.1109/JSAIT.2023.3279113. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10131968)][[arXiv](https://arxiv.org/abs/2301.05098)]
+
+8. V. Arvind Rameshwar and Navin Kashyap, "**Coding schemes based on Reed-Muller codes for $(d,\infty)$-RLL input-constrained channels**," in IEEE Transactions on Information Theory, vol. 69, no. 11, pp. 7003-7024, Nov. 2023, doi: 10.1109/TIT.2023.3296207. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10185128)][[arXiv](https://arxiv.org/abs/2211.05513)]
+
+9. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal and popular matchings**,” Journal of Combinatorial Optimization, vol. 37, no. 2, pp. 523--545, 2019. [[SpringerLink](https://link.springer.com/article/10.1007/s10878-018-0348-9#:~:text=A%20matching%20M%20in%20G,and%20deleted%20at%20any%20point.)]
  
 
 ### As Short Conference Papers
@@ -78,11 +82,6 @@ Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and A
 
 ### As (Yet) Unpublished Preprints
 
+1. V. Arvind Rameshwar and V. Lalitha, "**An upper bound on the error probability of RPA decoding of Reed-Muller codes over the BSC**," Dec. 2024. [[arXiv](https://arxiv.org/abs/2412.08129)]
 
-1. V. Arvind Rameshwar and Nir Weinberger, "**On achievable rates over noisy nanopore channels**," Jan. 2025. [[arXiv](https://arxiv.org/abs/2501.02917)]
-
-2. V. Arvind Rameshwar and V. Lalitha, "**An upper bound on the error probability of RPA decoding of Reed-Muller codes over the BSC**," Dec. 2024. [[arXiv](https://arxiv.org/abs/2412.08129)]
-
-3. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal tree-based mechanisms for differentially private approximate CDFs**," Oct. 2024. [[arXiv](https://arxiv.org/abs/2409.18573)]
-
-4. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
+2. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
