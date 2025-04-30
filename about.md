@@ -20,7 +20,7 @@ permalink: /pubs
 
 #### Published Works
 
-5. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the weight enumerators of Reed-Muller codes**," in IEEE Transactions on Communications, Apr. 2025, doi: 10.1109/TCOMM.2025.3564703. [IEEE Xplore](https://ieeexplore.ieee.org/document/10978048)][[arXiv](https://arxiv.org/abs/2403.05893)]
+5. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the weight enumerators of Reed-Muller codes**," in IEEE Transactions on Communications, Apr. 2025, doi: 10.1109/TCOMM.2025.3564703. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10978048)][[arXiv](https://arxiv.org/abs/2403.05893)]
 
 6. V. Arvind Rameshwar and Nir Weinberger, "**Information rates over multi-view channels**," in IEEE Transactions on Information Theory, vol. 71, no. 2, pp. 847-861, Feb. 2025, doi: 10.1109/TIT.2024.3518760. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10804170)] [[arXiv](https://arxiv.org/abs/2405.07264)]
 
