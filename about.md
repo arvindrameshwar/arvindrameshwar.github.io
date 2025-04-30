@@ -8,7 +8,7 @@ permalink: /pubs
 
 ### As Full Papers in Journals or Conferences
 
-## Works Under Review
+#### Works Under Review
 
 1. V. Arvind Rameshwar and Nir Weinberger, "**On achievable rates over noisy nanopore channels**," under review at the IEEE Journal on Selected Areas in Information Theory, Apr. 2025. [[arXiv](https://arxiv.org/abs/2501.02917)]
 
@@ -18,7 +18,7 @@ permalink: /pubs
 
 4. V. Arvind Rameshwar and Anshoo Tandon, "**Bounding user contributions for user-level differentially private mean estimation**," under review at the IEEE Signal Processing Letters, Feb. 2025. [[arXiv](https://arxiv.org/abs/2502.04749)]
 
-## Published Works
+#### Published Works
 
 5. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the weight enumerators of Reed-Muller codes**," in IEEE Transactions on Communications, doi: 10.1109/TCOMM.2025.3564703. [IEEE Xplore](https://ieeexplore.ieee.org/document/10978048)][[arXiv](https://arxiv.org/abs/2403.05893)]
 
