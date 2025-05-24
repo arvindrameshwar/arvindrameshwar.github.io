@@ -14,7 +14,7 @@ permalink: /pubs
 
 2. V. Arvind Rameshwar and Nir Weinberger, "**On achievable rates over noisy nanopore channels**," under review at the IEEE Journal on Selected Areas in Information Theory, Apr. 2025. [[arXiv](https://arxiv.org/abs/2501.02917)]
 
-3. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**," under review at the IEEE Transactions on Signal Processing, Apr. 2025. [[arXiv](https://arxiv.org/abs/2409.18573)]
+3. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal tree-based mechanisms for differentially private approximate CDFs**," under review at the IEEE Transactions on Signal Processing, Apr. 2025. [[arXiv](https://arxiv.org/abs/2409.18573)]
 
 4. V. Arvind Rameshwar and Anshoo Tandon, "**On improving the composition privacy loss in differential privacy for fixed estimation error**," resubmitted to the IEEE Transactions on Information Theory, Mar. 2025. [[arXiv](https://arxiv.org/abs/2405.06261)]
 
