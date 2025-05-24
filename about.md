@@ -10,13 +10,15 @@ permalink: /pubs
 
 #### Works Under Review
 
-1. V. Arvind Rameshwar and Nir Weinberger, "**On achievable rates over noisy nanopore channels**," under review at the IEEE Journal on Selected Areas in Information Theory, Apr. 2025. [[arXiv](https://arxiv.org/abs/2501.02917)]
+1. V. Arvind Rameshwar and V. Lalitha, "**An analysis of RPA decoding of Reed-Muller codes over the BSC**," under review at the IEEE Transactions on Information Theory, May 2025. [[arXiv](https://arxiv.org/abs/2412.08129)]
 
-2. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**," under review at the IEEE Transactions on Signal Processing, Apr. 2025. [[arXiv](https://arxiv.org/abs/2409.18573)]
+2. V. Arvind Rameshwar and Nir Weinberger, "**On achievable rates over noisy nanopore channels**," under review at the IEEE Journal on Selected Areas in Information Theory, Apr. 2025. [[arXiv](https://arxiv.org/abs/2501.02917)]
 
-3. V. Arvind Rameshwar and Anshoo Tandon, "**On improving the composition privacy loss in differential privacy for fixed estimation error**," resubmitted to the IEEE Transactions on Information Theory, Mar. 2025. [[arXiv](https://arxiv.org/abs/2405.06261)]
+3. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**," under review at the IEEE Transactions on Signal Processing, Apr. 2025. [[arXiv](https://arxiv.org/abs/2409.18573)]
 
-4. V. Arvind Rameshwar and Anshoo Tandon, "**Bounding user contributions for user-level differentially private mean estimation**," under review at the IEEE Signal Processing Letters, Feb. 2025. [[arXiv](https://arxiv.org/abs/2502.04749)]
+4. V. Arvind Rameshwar and Anshoo Tandon, "**On improving the composition privacy loss in differential privacy for fixed estimation error**," resubmitted to the IEEE Transactions on Information Theory, Mar. 2025. [[arXiv](https://arxiv.org/abs/2405.06261)]
+
+5. V. Arvind Rameshwar and Anshoo Tandon, "**Bounding user contributions for user-level differentially private mean estimation**," under review at the IEEE Signal Processing Letters, Feb. 2025. [[arXiv](https://arxiv.org/abs/2502.04749)]
 
 #### Published Works
 
@@ -86,6 +88,4 @@ Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and A
 
 ### As (Yet) Unpublished Preprints
 
-1. V. Arvind Rameshwar and V. Lalitha, "**An upper bound on the error probability of RPA decoding of Reed-Muller codes over the BSC**," Dec. 2024. [[arXiv](https://arxiv.org/abs/2412.08129)]
-
-2. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
+1. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
