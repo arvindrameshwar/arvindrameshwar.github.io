@@ -14,7 +14,7 @@ permalink: /pubs
 
 2. V. Arvind Rameshwar and Nir Weinberger, "**On achievable rates over noisy nanopore channels**," under review at the IEEE Journal on Selected Areas in Information Theory, Apr. 2025. [[arXiv](https://arxiv.org/abs/2501.02917)]
 
-3. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal tree-based mechanisms for differentially private approximate CDFs**," under review at the IEEE Transactions on Signal Processing, Apr. 2025. [[arXiv](https://arxiv.org/abs/2409.18573)]
+3. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal tree-based mechanisms for differentially private approximate CDFs**," under review at the IEEE Transactions on Information Theory, Jun. 2025. [[arXiv](https://arxiv.org/abs/2409.18573)]
 
 4. V. Arvind Rameshwar and Anshoo Tandon, "**On improving the composition privacy loss in differential privacy for fixed estimation error**," resubmitted to the IEEE Transactions on Information Theory, Mar. 2025. [[arXiv](https://arxiv.org/abs/2405.06261)]
 
@@ -86,6 +86,9 @@ Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and A
 
 3. Vivian Papadopoulou, V. Arvind Rameshwar, Antonia Wachter-Zeh, "**Sequence Reconstruction over Exact-$t$ Adversarial Channel Repetitions: An Average Case Analysis**," in Munich Workshop on Coding and Cryptography 2024. [[poster]({{ site.baseurl }}/average-case-reconstruction-poster.pdf)]
 
-### As (Yet) Unpublished Preprints
 
-1. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
+### As (Yet) Unpublished Preprints or Write-ups
+
+1. V. Arvind Rameshwar, "**Computations pertaining to some sequence reconstruction problems in immunogenomics**," (in progress) Jun. 2025. [[pdf]({{ site.baseurl }}/note-seq-reconstruct-immuno.pdf)]
+
+2. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
