@@ -18,8 +18,6 @@ permalink: /pubs
 
 4. V. Arvind Rameshwar and Anshoo Tandon, "**On improving the composition privacy loss in differential privacy for fixed estimation error**," resubmitted to the IEEE Transactions on Information Theory, Mar. 2025. [[arXiv](https://arxiv.org/abs/2405.06261)]
 
-5. V. Arvind Rameshwar and Anshoo Tandon, "**Bounding user contributions for user-level differentially private mean estimation**," under review at the IEEE Signal Processing Letters, Feb. 2025. [[arXiv](https://arxiv.org/abs/2502.04749)]
-
 #### Published Works
 
 6. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the weight enumerators of Reed-Muller codes**," in IEEE Transactions on Communications, Apr. 2025, doi: 10.1109/TCOMM.2025.3564703. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10978048)][[arXiv](https://arxiv.org/abs/2403.05893)]
@@ -91,4 +89,6 @@ Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and A
 
 1. V. Arvind Rameshwar, "**Computations pertaining to some sequence reconstruction problems in immunogenomics**," (in progress) Jun. 2025. [[pdf]({{ site.baseurl }}/note-seq-reconstruct-immuno.pdf)]
 
-2. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
+2. V. Arvind Rameshwar and Anshoo Tandon, "**Bounding user contributions for user-level differentially private mean estimation**," Feb. 2025. [[arXiv](https://arxiv.org/abs/2502.04749)]
+
+3. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
