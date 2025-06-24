@@ -89,7 +89,7 @@ Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and A
 
 1. V. Arvind Rameshwar, "**Computations pertaining to some sequence reconstruction problems in immunogenomics**," (in progress) Jun. 2025. [[pdf]({{ site.baseurl }}/note-seq-reconstruct-immuno.pdf)]
 
-2. V. Arvind Rameshwar and Anshoo Tandon, "**$(\ell,\delta)-Diversity: Linkage-Robustness via a Composition Theorem**," Jun. 2025. 
+2. V. Arvind Rameshwar and Anshoo Tandon, "**$(\ell,\delta)-Diversity: Linkage-Robustness via a Composition Theorem**," Jun. 2025. [[arXiv](https://arxiv.org/abs/2506.18405)]
 
 3. V. Arvind Rameshwar and Anshoo Tandon, "**Bounding user contributions for user-level differentially private mean estimation**," Feb. 2025. [[arXiv](https://arxiv.org/abs/2502.04749)]
 
