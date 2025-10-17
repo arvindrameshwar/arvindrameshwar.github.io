@@ -5,7 +5,7 @@ permalink: /talks
 ---
 
 ### Invited Talks
-1. "**An Analysis of Recursive Projection-Aggregation Decoding of Reed-Muller Codes**," at CodeIT: CNI Workshop on Codes, Sequences and Information Theory, Oct. 2025, held at IISc Bangalore to celebrate Prof. P. Vijay Kumar's $70^{\text{th}}$ birthday. [[slides]]({{ site.baseurl }}/pvk70-talk.pdf)
+1. "**An Analysis of Recursive Projection-Aggregation Decoding of Reed-Muller Codes**," at CodeIT: CNI Workshop on Codes, Sequences and Information Theory, Oct. 2025, held at IISc Bangalore to celebrate Prof. P. Vijay Kumar at 70. [[slides]]({{ site.baseurl }}/pvk70-talk.pdf)
 2. "**An Analysis of RPA Decoding of Reed-Muller Codes Over the BSC**," at the ICTS Workshop on HDXs and Codes, International Centre for Theoretical Sciences (ICTS), May 2025 (by V. Lalitha).
 3. "**An Analysis of RPA Decoding of Reed-Muller Codes Over the BSC**," at the Error-Correcting Codes: Theory and Practice Reunion, Simons Institute for the Theory of Computing, Berkeley, USA, Apr. 2025 (by V. Lalitha).
 4. "**Multi-View Channels**," at the Indian Institute of Technology (IIT) Madras, Chennai, Dec. 2024. [[slides]]({{ site.baseurl }}/iitm-multi-view.pdf)
