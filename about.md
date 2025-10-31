@@ -12,9 +12,9 @@ permalink: /pubs
 
 1. V. Arvind Rameshwar and V. Lalitha, "**An analysis of RPA decoding of Reed-Muller codes over the BSC**," under review at the IEEE Transactions on Information Theory, May 2025. [[arXiv](https://arxiv.org/abs/2412.08129)]
 
-2. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal tree-based mechanisms for differentially private approximate CDFs**," under review at the IEEE Transactions on Information Theory, Jun. 2025. [[arXiv](https://arxiv.org/abs/2409.18573)]
+2. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal tree-based mechanisms for differentially private approximate CDFs**," to be submitted, Jun. 2025. [[arXiv](https://arxiv.org/abs/2409.18573)]
 
-3. V. Arvind Rameshwar and Anshoo Tandon, "**On improving the composition privacy loss in differential privacy for fixed estimation error**," submitted. [[arXiv](https://arxiv.org/abs/2405.06261)]
+3. V. Arvind Rameshwar and Anshoo Tandon, "**On improving the composition privacy loss in differential privacy for fixed estimation error**," to be submitted. [[arXiv](https://arxiv.org/abs/2405.06261)]
 
 #### Published Works
 
