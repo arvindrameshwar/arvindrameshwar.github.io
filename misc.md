@@ -6,7 +6,9 @@ permalink: /misc
 
 ## Service
 
-I regularly review papers for the following journals: IEEE Transactions on Information Theory, IEEE Transactions on Communications, and the IEEE Transactions on on Molecular, Biological, and Multi-Scale Communications. I also review papers for the IEEE International Symposium on Information Theory and the IEEE Information Theory Workshop.
+I regularly review papers for the following journals: [IEEE T-IT](https://www.itsoc.org/it-trans), [IEEE T-Com](https://www.comsoc.org/publications/journals/ieee-tcom), [IEEE TMBMC](https://www.comsoc.org/publications/journals/ieee-tmbmc), [IEEE JSAIT](https://www.itsoc.org/jsait), and [DAM](https://www.sciencedirect.com/journal/discrete-applied-mathematics). 
+
+I also review papers for the following conferences: [IEEE ISIT](https://www.itsoc.org/conferences/isit), [IEEE ITW](https://www.itsoc.org/page/ieee-information-theory-workshop), and [IEEE ICASSP](https://ieeeicassp.org/).
 
 ## Outside Academia
 1. I was an avid quizzer, and have taken part in, and hosted, quite a few intercollegiate quizzes in my undergraduate days. At IISc, I have twice co-hosted the general quizzes as part of the Open Day celebrations at the ECE department.
