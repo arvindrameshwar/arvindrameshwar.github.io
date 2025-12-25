@@ -33,7 +33,7 @@ permalink: /pubs
 
 ### As Conference Papers
 
-1. V. Arvind Rameshwar and Anshoo Tandon, "**$(\ell,\delta)$-Diversity: Linkage-Robustness via a Composition Theorem**," accepted to the Proceedings of the ACM IKDD CODS 2025, 13th International Conference on Data Science. **Full Paper**. [[arXiv](https://arxiv.org/abs/2506.18405)]
+1. V. Arvind Rameshwar and Anshoo Tandon, "**$(\ell,\delta)$-Diversity: Linkage-Robustness via a Composition Theorem**," accepted to the Proceedings of the ACM IKDD CODS 2025, 13th International Conference on Data Science. **Full Paper**. **Best Paper Award, Research Track**. [[arXiv](https://arxiv.org/abs/2506.18405)]
 
 2. V. Arvind Rameshwar and Nir Weinberger, "**On achievable rates over noisy nanopore channels**," 2025 IEEE Information Theory Workshop, Sydney, Australia. [[arXiv](https://arxiv.org/abs/2501.02917)]
 
@@ -51,19 +51,19 @@ permalink: /pubs
 
 9. Prajjwal Gupta, V. Arvind Rameshwar, Anshoo Tandon, Novoneel Chakraborty, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024 IEEE International Conference on Signal Processing and Communications (SPCOM). **Finalist for a Best Paper Award**. [[arXiv full version](https://arxiv.org/abs/2401.15906)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10631607)]
 
-10. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the sizes of constrained subcodes of Reed-Muller codes**," 30th National Conference on Communications (NCC) 2024. **Recipient of a Best Paper Award**. [[arXiv full version](https://arxiv.org/abs/2309.08907)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10485899)]
+10. V. Arvind Rameshwar, Shreyas Jain, and Navin Kashyap, "**Sampling-based estimates of the sizes of constrained subcodes of Reed-Muller codes**," 30th National Conference on Communications (NCC) 2024. **Best Paper Award**. [[arXiv full version](https://arxiv.org/abs/2309.08907)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10485899)]
 
-11. V. Arvind Rameshwar and Navin Kashyap, "**A version of Delsarte's linear program for constrained systems**," 2023 IEEE International Symposium on Information Theory (ISIT).  **Recipient of a Jack Keil Wolf ISIT Student Paper Award**. [[arXiv full version](https://arxiv.org/abs/2301.05098)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10206570)]
+11. V. Arvind Rameshwar and Navin Kashyap, "**A version of Delsarte's linear program for constrained systems**," 2023 IEEE International Symposium on Information Theory (ISIT).  **Jack Keil Wolf ISIT Student Paper Award**. [[arXiv full version](https://arxiv.org/abs/2301.05098)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10206570)]
 
 12. V. Arvind Rameshwar and Navin Kashyap, "**Counting constrained codewords in binary linear codes via Fourier expansions**," 2023 IEEE International Symposium on Information Theory (ISIT). [[arXiv full version](https://arxiv.org/abs/2301.05098)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10206631)]
 
 13. V. Arvind Rameshwar and Navin Kashyap, “**Linear runlength-limited subcodes of Reed-Muller codes and coding schemes for input-constrained BMS channels**," 2022 IEEE Information Theory Workshop (ITW). [[IEEE Xplore](https://ieeexplore.ieee.org/document/9965911)][[arXiv full version](https://arxiv.org/abs/2205.04153)]
 
-14. V. Arvind Rameshwar and Navin Kashyap, "**A feedback capacity-achieving coding scheme for the $(d,\infty)$-RLL input-constrained binary erasure channel**," 2022 IEEE International Conference on Signal Processing and Communications (SPCOM). **Recipient of a Best Student Paper Award**. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9840852)][[arXiv full version](https://arxiv.org/abs/2204.06780)]
+14. V. Arvind Rameshwar and Navin Kashyap, "**A feedback capacity-achieving coding scheme for the $(d,\infty)$-RLL input-constrained binary erasure channel**," 2022 IEEE International Conference on Signal Processing and Communications (SPCOM). **Best Student Paper Award**. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9840852)][[arXiv full version](https://arxiv.org/abs/2204.06780)]
 
 15. V. Arvind Rameshwar and Navin Kashyap, “**On the performance of Reed-Muller codes Over $(d,\infty)$-RLL input-constrained BMS channels**,” 2022 International Symposium on Information Theory (ISIT), Espoo, Finland, Jun. 2022. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9834876?signout=success)][[arXiv full version](https://arxiv.org/abs/2201.02035)]
 
-16. V. Arvind Rameshwar and Navin Kashyap, “**Numerically computable lower bounds on the capacity of the $(1,\infty)$-RLL input-constrained binary erasure channel**,” National Conference on Communications (NCC), 2021. **Recipient of a Best Paper Award**. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9530025)]
+16. V. Arvind Rameshwar and Navin Kashyap, “**Numerically computable lower bounds on the capacity of the $(1,\infty)$-RLL input-constrained binary erasure channel**,” National Conference on Communications (NCC), 2021. **Best Paper Award**. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9530025)]
 
 17. V. Arvind Rameshwar and Navin Kashyap, “**Bounds on the feedback capacity of the $(d,\infty)$-RLL input-constrained binary erasure channel**,” accepted to the International Symposium on Information Theory (ISIT) 2021. [[arXiv full version](https://arxiv.org/abs/2101.08638)][[IEEE Xplore](https://ieeexplore.ieee.org/document/9518138)]
 
