@@ -34,4 +34,15 @@ Block codes, linear codes via an introduction to vector spaces, bounds on code p
 
 ### Grading
 
-There will be three examinations: two midterms and a final, and a collection of homeworks.
+There will be three examinations: two midterms and a final, and a collection of take-home assignments. The exams will closely follow the course material, and the take-home assignments are meant to supplement and extend the lectures.
+
+* Midterms: 40% (20% each)
+* Final: 40%
+* Assignments: 10%
+* Class participation: 10%
+
+### Schedule
+
+| Module number | Topic |
+|------|------|
+|1|Introduction and course overview|
