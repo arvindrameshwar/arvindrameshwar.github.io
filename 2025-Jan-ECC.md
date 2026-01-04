@@ -15,3 +15,23 @@ permalink: /2025-Jan-ECC
 
 ### Course Description
 
+The objective of error-control coding (or coding theory) is, at a high level, to maximize the amount of information transmitted/stored across/in a noisy, erroneous medium, while ensuring reliable recovery of the information. The theory of error-correcting codes goes back to Shannon (1948) and Hamming (1950), and has been a cornerstone in the evolution of modern communication technologies and the internet. With the growth of research and development in quantum computing, error-correcting codes will play an increasingly important role in ensuring the fidelity of data against noise, both classical and quantum. In addition, coding theory has applications beyond data computation and storage, in fields ranging from cryptography to synthetic biology to computational epidemiology.
+
+In this course, we shall build the foundational tools for designing "good" error-correcting codes. The course can be partitioned into four unequal parts:
+
+1. **Foundations**: What makes a code "good"?
+2. **Fundamental limits**: How "good" can a code get?)
+3. **Classical constructions**: How does one use the rich mathematical theory of linear algebra to design "good" codes?
+4. **Modern constructions**: What are "good" codes for "information-theoretic" channels?
+
+### Prerequisites
+
+Comfort with basic linear algebra and probability, in addition to familiarity with understanding and writing mathematical proofs.
+
+### Tentative List of Topics
+
+Block codes, linear codes via an introduction to vector spaces, bounds on code parameters, Shannon's noisy coding theorem, operations on codes, finite field arithmetic, Reed-Solomon codes, BCH codes, Reed-Muller codes, list decoding, LDPC codes and factor-graph interpretations, a brief overview of density evolution for the erasure channel
+
+### Grading
+
+There will be three examinations: two midterms and a final, and a collection of homeworks.
