@@ -43,6 +43,8 @@ There will be three examinations: two midterms and a final, and a collection of 
 
 ### Schedule
 
+Handwritten lecture notes will be made available at the end of every module.
+
 | Module number | Topic |
 |------|------|
 |1|Introduction and course overview|
