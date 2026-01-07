@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ECC-2025
+title: ECC-2026
 permalink: /2026-Jan-ECC
 ---
 
