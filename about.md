@@ -95,8 +95,10 @@ Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and A
 
 ### As (Yet) Unpublished Preprints or Write-ups
 
-1. V. Arvind Rameshwar, "**Computations pertaining to some sequence reconstruction problems in immunogenomics**," (in progress) Jun. 2025. [[pdf]({{ site.baseurl }}/note-seq-reconstruct-immuno.pdf)]
+1. Dorsa Fathollahi, V. Arvind Rameshwar, and V. Lalitha, "**On the Error Probability of RPA Decoding of Reed-Muller Codes over BMS Channels**," Jan. 2026. [[pdf]({{ site.baseurl }}/2025Fathollahi-Rameshwar-Lalitha.pdf)]
 
-2. V. Arvind Rameshwar and Anshoo Tandon, "**Bounding user contributions for user-level differentially private mean estimation**," Feb. 2025. [[arXiv](https://arxiv.org/abs/2502.04749)]
+2. V. Arvind Rameshwar, "**Computations pertaining to some sequence reconstruction problems in immunogenomics**," (in progress) Jun. 2025. [[pdf]({{ site.baseurl }}/note-seq-reconstruct-immuno.pdf)]
 
-3. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
+3. V. Arvind Rameshwar and Anshoo Tandon, "**Bounding user contributions for user-level differentially private mean estimation**," Feb. 2025. [[arXiv](https://arxiv.org/abs/2502.04749)]
+
+4. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
