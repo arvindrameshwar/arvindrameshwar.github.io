@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ECC-2025
-permalink: /2025-Jan-ECC
+permalink: /2026-Jan-ECC
 ---
 
 ## EE5160: Error-Control Coding (Jan.--May 2026)
