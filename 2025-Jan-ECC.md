@@ -11,7 +11,7 @@ permalink: /2025-Jan-ECC
 **Time and Location**: Wednesdays (15:30--16:45 hours), Fridays (14:00--15:15 hours)
                        at ESB-242
                        
-**Office Hours**: Thursdays (15:00--16:00 hours)
+**Office Hours**: Thursdays (15:00--16:00 hours); do send me an email in advance
 
 ### Course Description
 
@@ -20,7 +20,7 @@ The objective of error-control coding (or coding theory) is, at a high level, to
 In this course, we shall build the foundational tools for designing "good" error-correcting codes. The course can be partitioned into four unequal parts:
 
 1. **Foundations**: What makes a code "good"?
-2. **Fundamental limits**: How "good" can a code get?)
+2. **Fundamental limits**: How "good" can a code get?
 3. **Classical constructions**: How does one use the rich mathematical theory of linear algebra to design "good" codes?
 4. **Modern constructions**: What are "good" codes for "information-theoretic" channels?
 
