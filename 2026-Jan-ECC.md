@@ -9,7 +9,7 @@ permalink: /2026-Jan-ECC
 **Instructor**: [Arvind Rameshwar](arvindrameshwar.github.io)
 
 **Time and Location**: Wednesdays (15:30--16:45 hours), Fridays (14:00--15:15 hours)
-                       at ESB-242
+                       at ESB-242. The first class is on Wednesday, 21 January 2026.
                        
 **Office Hours**: Thursdays (15:00--16:00 hours); do send me an email in advance
 
@@ -45,4 +45,4 @@ There will be three examinations: two midterms and a final, and a collection of 
 
 Handwritten lecture notes will be made available at the end of every module.
 
-1. Introduction and course overview
+1. Introduction and course overview (21-1-2025)
