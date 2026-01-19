@@ -95,7 +95,7 @@ Stochastic $t$-Error Channel**," accepted to the Workshop on Coding Theory and A
 
 ### As (Yet) Unpublished Preprints or Write-ups
 
-1. Dorsa Fathollahi, V. Arvind Rameshwar, and V. Lalitha, "**On the error probability of RPA decoding of Reed-Muller codes over BMS channels**," Jan. 2026. [[pdf]({{ site.baseurl }}/2025Fathollahi-Rameshwar-Lalitha.pdf)]
+1. Dorsa Fathollahi, V. Arvind Rameshwar, and V. Lalitha, "**On the error probability of RPA decoding of Reed-Muller codes over BMS channels**," Jan. 2026. [[arXiv](https://arxiv.org/abs/2601.09581)]
 
 2. V. Arvind Rameshwar, "**Computations pertaining to some sequence reconstruction problems in immunogenomics**," (in progress) Jun. 2025. [[pdf]({{ site.baseurl }}/note-seq-reconstruct-immuno.pdf)]
 
