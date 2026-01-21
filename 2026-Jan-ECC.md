@@ -45,4 +45,4 @@ There will be three examinations: two midterms and a final, and a collection of 
 
 Handwritten lecture notes will be made available at the end of every module.
 
-1. Introduction and course overview (21/1)
+1. [Introduction and course overview]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l1.pdf) (21/1)
