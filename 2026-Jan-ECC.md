@@ -56,7 +56,7 @@ Handwritten lecture notes will be made available at the end of every module.
 2. Prof. Henry Pfister's course at Duke University: [ECE 590.10: Error Correcting Codes](http://pfister.ee.duke.edu/courses/ece590_ecc/)
 3. NPTEL courses by [Prof. P. Vijay Kumar](https://www.youtube.com/playlist?list=PL85783E9E7B5F2C0D) and by [Prof. Andrew Thangaraj](https://nptel.ac.in/courses/117106031)
 
-### Textbooks
+#### Textbooks
 
 1. R. M. Roth, [Introduction to Coding Theory](https://www.cambridge.org/core/books/introduction-to-coding-theory/377D24BE73F473B15378776B0AE63CA3), Cambridge University Press, 2006.
 2. W. C. Huffman and V. Pless, [Fundamentals of Error Correcting Codes](https://www.cambridge.org/core/books/fundamentals-of-errorcorrecting-codes/BF3AFDFB539C3C023BBD9DCBA4CDA761), Cambridge University Press, 2003.
