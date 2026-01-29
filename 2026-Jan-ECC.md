@@ -47,6 +47,7 @@ Handwritten lecture notes will be made available at the end of every module.
 
 1. [Introduction and course overview]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l1.pdf) (21/1)
 2. [Preliminary definitions, MAP decoder, minimum distance decoder]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l2.pdf) (23/1)
+3. [Shannon's noisy channel coding theorem]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l3-Shannon.pdf) (28/1)
 
 ### Selected Useful Online Courses and References
 
