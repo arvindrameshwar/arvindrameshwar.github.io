@@ -55,7 +55,7 @@ Handwritten lecture notes will be made available at the end of every module.
 #### Courses
 
 1. Prof. Venkatesan Guruswami's courses at CMU: [15-859Y: Coding Theory, Fall 2014](https://www.cs.cmu.edu/~venkatg/teaching/codingtheory-au14/) and [15-859V: Introduction to Coding Theory, Spring 2010](https://www.cs.cmu.edu/~venkatg/teaching/codingtheory/)
-2. Prof. Henry Pfister's course at Duke University: [ECE 590.10: Error Correcting Codes](http://pfister.ee.duke.edu/courses/ece590_ecc/)
+2. Prof. Henry Pfister's courses at Duke University: [ECE 590.10: Error Correcting Codes](http://pfister.ee.duke.edu/courses/ece590_ecc/) and [ECEN 655: Advanced Channel Coding (SP14)](http://pfister.ee.duke.edu/courses/ecen655/)
 3. Prof. Alexander Barg's course at the University of Maryland: [ENEE 626: Error Correcting Codes](https://www.terpconnect.umd.edu/~abarg/626/)
 4. Prof. Prahlad Harsha's course at TIFR, Mumbai: [CSS.318.1: Coding Theory - Monsoon Semester (2022-23)](https://www.tcs.tifr.res.in/~prahladh/teaching/2022-23/coding/#ref)
 5. NPTEL courses by [Prof. P. Vijay Kumar](https://www.youtube.com/playlist?list=PL85783E9E7B5F2C0D) and by [Prof. Andrew Thangaraj](https://nptel.ac.in/courses/117106031)
