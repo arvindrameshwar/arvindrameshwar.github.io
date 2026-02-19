@@ -49,9 +49,10 @@ Handwritten lecture notes will be made available at the end of every module.
 2. [Preliminary definitions, MAP decoder, minimum distance decoder]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l2.pdf) (23/1)
 3. [Shannon's noisy channel coding theorem]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l3-Shannon.pdf) (28/1)
 4. [Mathematical preliminaries: Groups]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l4-groups.pdf) (30/1)
-5. [Mathematical preliminaries: Fields and Vector Spaces - I]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l5-fields.pdf) (4/2)
+5. [Mathematical preliminaries: Fields and vector spaces - I]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l5-fields.pdf) (4/2)
 6. Introduction to linear codes: [Part-I]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-vector-space-linear-codes-1.pdf), [Part-II]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-linear-codes-2-part-1.pdf) (11/2)
 7. Linear codes and decoding: [Part-I]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-linear-codes-2.pdf), [Part-II]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-decoding-linear-codes-part-1.pdf) (13/2)
+8. [Decoding linear codes via the standard array]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-decoding-linear-codes-part-2.pdf) (18/2)
 
 ### Selected Useful Online Courses and References
 
