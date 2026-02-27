@@ -54,6 +54,7 @@ Handwritten lecture notes will be made available at the end of every module.
 7. Linear codes and decoding: [Part-I]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-linear-codes-2.pdf), [Part-II]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-decoding-linear-codes-part-1.pdf) (13/2)
 8. [Decoding linear codes via the standard array]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-decoding-linear-codes-part-2.pdf) (18/2)
 9. [Operations on codes; weight enumerators]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l9-operations-codes.pdf) (20/2)
+10. [Bounds on code parameters]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l10-code-bounds-cropped.pdf) (27/2)
 
 ### Selected Useful Online Courses and References
 
