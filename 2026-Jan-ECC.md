@@ -57,7 +57,7 @@ Handwritten lecture notes will be made available at the end of every module.
 10. [Bounds on code parameters]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l10-code-bounds-cropped.pdf) (27/2)
 11. [More bounds on code parameters]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-more-code-bounds.pdf) (6/3)
 12. [Mathematical interlude: Fields via polynomials]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l12-higher-fields.pdf) (11/3)
-13. Extension fields and the Reed-Solomon code family: [Part-I]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-higher-fields-2.pdf), [Part-II]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-RS-codes_cropped.pdf) (13/3)
+13. Extension fields and the Reed-Solomon code family: [Part-I]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l13-higher-fields-2.pdf), [Part-II]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-RS-codes_cropped.pdf) (13/3)
 
 ### Selected Useful Online Courses and References
 
