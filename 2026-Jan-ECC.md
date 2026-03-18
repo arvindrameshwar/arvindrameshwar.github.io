@@ -58,7 +58,7 @@ Handwritten lecture notes will be made available at the end of every module.
 11. [More bounds on code parameters]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-more-code-bounds.pdf) (6/3)
 12. [Mathematical interlude: Fields via polynomials]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l12-higher-fields.pdf) (11/3)
 13. Extension fields and the Reed-Solomon code family: [Part-I]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l13-higher-fields-2.pdf), [Part-II]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-RS-codes_cropped.pdf) (13/3)
-14. Reed-Solomon codes (contd.) and code concatenation: [RS codes]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l13-higher-fields-2.pdf), [Part-II]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-Reed-Solomon-codes-cropped-2.pdf) and Prof. Prahladh Harsha's [notes](https://www.tcs.tifr.res.in/~prahladh/teaching/2022-23/coding/notes/10-20220928-forney.pdf)
+14. Reed-Solomon codes (contd.) and code concatenation: [RS codes]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-Reed-Solomon-codes-cropped-2.pdf) and Prof. Prahladh Harsha's [notes](https://www.tcs.tifr.res.in/~prahladh/teaching/2022-23/coding/notes/10-20220928-forney.pdf)
 
 ### Selected Useful Online Courses and References
 
