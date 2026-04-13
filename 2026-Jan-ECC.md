@@ -62,6 +62,7 @@ Handwritten lecture notes will be made available at the end of every module.
 15. [BCH codes and an introduction to RS decoding]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-RS-decoding-merged-1.pdf) (25/3)
 16. [The Welch-Berlekamp decoder and an introduction to Reed-Muller codes]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-decoding-RS-codes-cropped-2.pdf) (27/3)
 17. [Properties of RM codes and Reed's decoder]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-RM-decodingRM-merged.pdf) (1/4) and (8/4)
+18. [Introduction to LDPC codes and the peeling decoder]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-LDPC-1-merged.pdf)
 
 ### Selected Useful Online Courses and References
 
