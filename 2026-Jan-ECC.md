@@ -65,6 +65,7 @@ Handwritten lecture notes will be made available at the end of every module.
 18. [Introduction to LDPC codes and the peeling decoder]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l-LDPC-1-merged.pdf) (15/4)
 19. [Stopping sets, properties of the peeling decoder, and intro to message-passing decoding]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l19-modern-coding-2.pdf) (15/4)
 20. [Message-passing decoding as an instance of the sum-product algorithm]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l20-modern-coding-3.pdf) (17/4)
+21. [Irregular LDPC codes and the intuition behind density evolution for the BEC]({{ site.baseurl }}/2026-Jan-ECC/Ecc-2026-l21-modern-coding-4.pdf) (22/4)
 
 ### Selected Useful Online Courses and References
 
