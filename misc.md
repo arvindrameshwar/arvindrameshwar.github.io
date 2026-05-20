@@ -10,7 +10,7 @@ I regularly review papers for the following journals: [IEEE T-IT](https://www.it
 
 I also review papers for the following conferences: [IEEE ISIT](https://www.itsoc.org/conferences/isit), [IEEE ITW](https://www.itsoc.org/page/ieee-information-theory-workshop), and [IEEE ICASSP](https://ieeeicassp.org/).
 
-At IIT Madras, I organize the [IITM INFER Seminar Series](https://infer-seminars-iitm.github.io/Infer-IITM/), which regularly hosts theoretical EE/CS talks by distinguished speakers, in a tutorial format. I am a co-convener of the Research Science Initiative - Chennai (RSI-C) -- a 6 week-long residential programme, run jointly by IIT-M, CMI, and SASTRA University, which aims at getting talented school students exposed to research/deep tech./science via talks and demos by faculty.
+At IIT Madras, I organize the [IITM INFER Seminar Series](https://infer-seminars-iitm.github.io/Infer-IITM/), which regularly hosts theoretical EE/CS talks by distinguished speakers, in a tutorial format. I am a convener of the Research Science Initiative - Chennai (RSI-C) -- a 6 week-long residential programme, run jointly by IIT-M, CMI, and SASTRA University, which aims at getting talented school students exposed to research/deep tech./science via talks and demos by faculty.
 
 ## Outside Academia
 1. I was an avid quizzer, and have taken part in, and hosted, quite a few intercollegiate quizzes in my undergraduate days. At IISc, I have twice co-hosted the general quizzes as part of the Open Day celebrations at the ECE department.
