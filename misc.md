@@ -10,6 +10,8 @@ I regularly review papers for the following journals: [IEEE T-IT](https://www.it
 
 I also review papers for the following conferences: [IEEE ISIT](https://www.itsoc.org/conferences/isit), [IEEE ITW](https://www.itsoc.org/page/ieee-information-theory-workshop), and [IEEE ICASSP](https://ieeeicassp.org/).
 
+At IIT Madras, I organize the [IITM INFER Seminar Series](https://infer-seminars-iitm.github.io/Infer-IITM/), which regularly hosts theoretical EE/CS talks by distinguished speakers, in a tutorial format. I am a co-convener of the Research Science Initiative - Chennai (RSI-C) -- a 6 week-long residential programme which aims at getting talented school students exposed to research/deep tech./science via talks by faculty from within and outside IIT-M.
+
 ## Outside Academia
 1. I was an avid quizzer, and have taken part in, and hosted, quite a few intercollegiate quizzes in my undergraduate days. At IISc, I have twice co-hosted the general quizzes as part of the Open Day celebrations at the ECE department.
 2. In a much earlier avatar, I was a part of the [Indian Schools Debating Society](https://indianschoolsdebatingsociety.com/). The tournaments then involved, almost exclusively, schools in Chennai, but the organization has now expanded greatly to include schools from all over India. The debates followed the format of the [World Schools Style](https://en.wikipedia.org/wiki/World_Schools_Style_debate).
