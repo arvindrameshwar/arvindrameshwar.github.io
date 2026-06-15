@@ -16,7 +16,7 @@ permalink: /pubs
 
 #### Published/Accepted Works
 
-1. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal tree-based mechanisms for differentially private approximate CDFs**," accepted with minor changes to the IEEE Transactions on Information Theory. [[arXiv](https://arxiv.org/abs/2409.18573)]
+1. V. Arvind Rameshwar, Anshoo Tandon, Abhay Sharma, "**Optimal tree-based mechanisms for differentially private approximate CDFs**," accepted to the IEEE Transactions on Information Theory, Jun. 2026. [[arXiv](https://arxiv.org/abs/2409.18573)]
   
 2. V. Arvind Rameshwar and Nir Weinberger, "**On achievable rates over noisy nanopore channels**," in IEEE Journal on Selected Areas in Information Theory, Sep. 2025, doi: 10.1109/JSAIT.2025.3598773. [[arXiv](https://arxiv.org/abs/2501.02917)]
 
