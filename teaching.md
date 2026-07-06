@@ -5,7 +5,8 @@ permalink: /teaching
 ---
 
 ### At IIT Madras
-1. [EE5160: Error-Control Coding]({{ site.baseurl }}/2026-Jan-ECC)
+1. [EE5160: Error-Control Coding]({{ site.baseurl }}/2026-Jan-ECC) (Jan.--May 2026)
+2. [EE6180: Data privacy]({{ site.baseurl }}/2026-Jul-Priv) (Jul.--Nov. 2026)
 
 
 The following are courses I have been a teaching assistant for, during my graduate studies.
