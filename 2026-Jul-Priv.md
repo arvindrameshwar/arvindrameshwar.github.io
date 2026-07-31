@@ -57,4 +57,5 @@ Handwritten lecture notes will be made available at the end of every module.
 
 1. C. Dwork and A. Roth, [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf), Foundations and Trends in Theoretical Computer Science, Vol. 9, Nos. 3–4 (2014), 211–407, 2006.
 2. S. Vadhan, [The Complexity of Differential Privacy](https://privacytools.seas.harvard.edu/sites/g/files/omnuum6656/files/privacytools/files/complexityprivacy_1.pdf), Lindell, Y. (eds) Tutorials on the Foundations of Cryptography, Information Security and Cryptography, Springer, Cham, 2017.
-3. J. P. Near and C. Abuah, [Programming Differential Privacy](https://programming-dp.com/), Vol. 1, 2021.
+3. [Differential Privacy in Artificial Intelligence: From, Theory to Practice](https://www.emerald.com/books/oa-edited-volume/20854/Differential-Privacy-in-Artificial), Edited by: Ferdinando Fioretto, Pascal Van Hentenryck, Emerald Publishing Limited, 2025.
+4. J. P. Near and C. Abuah, [Programming Differential Privacy](https://programming-dp.com/), Vol. 1, 2021.
