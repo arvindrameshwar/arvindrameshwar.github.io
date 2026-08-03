@@ -45,6 +45,8 @@ There will be three examinations: two midterms and a final, and a collection of 
 
 Handwritten lecture notes will be made available at the end of every module.
 
+1. [Introduction to privacy concerns in statistics release; privacy attacks]({{ site.baseurl }}/2026-Jul-Priv/Sp-2026-l1-l2-attacks1-2.pdf) (27/7), (29/7)
+
 ### Selected Useful Online Courses and References
 
 #### Courses
