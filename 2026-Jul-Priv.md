@@ -47,6 +47,8 @@ Handwritten lecture notes will be made available at the end of every module.
 
 1. [Introduction to privacy concerns in statistics release; privacy attacks]({{ site.baseurl }}/2026-Jul-Priv/Sp-2026-l1-l2-attacks1-2.pdf) (27/7), (29/7)
 2. [Heuristic anonymity notions; DP definition]({{ site.baseurl }}/2026-Jul-Priv/Sp-2026-l3-heuristic-privacy-notions-dp.pdf) (3/8), (4/8)
+3. [The Laplace mechanism]({{ site.baseurl }}/2026-Jul-Priv/Sp-2026-l4-dp-contd.pdf)
+4. [DP properties]({{ site.baseurl }}/2026-Jul-Priv/Sp-2026-l5-dp-properties.pdf)
 
 ### Selected Useful Online Courses and References
 
