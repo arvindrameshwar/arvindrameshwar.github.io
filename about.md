@@ -6,7 +6,7 @@ permalink: /pubs
 
 **Disclaimer**: Copyright belongs to the publisher in the case of published articles. Copyright belongs to the author/authors in all other cases.
 
-### As Journal Papers
+### As Full Papers
 
 #### Works Under Review
 
