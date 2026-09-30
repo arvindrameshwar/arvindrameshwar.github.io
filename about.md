@@ -10,9 +10,13 @@ permalink: /pubs
 
 #### Works Under Review
 
-1. V. Arvind Rameshwar and V. Lalitha, "**An analysis of RPA decoding of Reed-Muller codes over the BSC**," under review at the IEEE Transactions on Information Theory, May 2025. [[arXiv](https://arxiv.org/abs/2412.08129)]
+1. Haricharan Balasundaram and V. Arvind Rameshwar, "**The asymptotics of language model alignment with memory**," submitted, Sep. 2026.
 
-2. V. Arvind Rameshwar and Anshoo Tandon, "**On improving the composition privacy loss in differential privacy for fixed estimation error**," to be submitted. [[arXiv](https://arxiv.org/abs/2405.06261)]
+2. Jaswanthi Mandalapu, Deepak Charan, V. Arvind Rameshwar, and Nir Weinberger, "**Trace complexities of sequence reconstruction problems in immunogenomics**," submitted, Sep. 2026. [[arXiv](https://arxiv.org/abs/2609.31501)]
+
+3. V. Arvind Rameshwar and V. Lalitha, "**An analysis of RPA decoding of Reed-Muller codes over the BSC**," under review at the IEEE Transactions on Information Theory, May 2025. [[arXiv](https://arxiv.org/abs/2412.08129)]
+
+4. V. Arvind Rameshwar and Anshoo Tandon, "**On improving the composition privacy loss in differential privacy for fixed estimation error**," to be submitted. [[arXiv](https://arxiv.org/abs/2405.06261)]
 
 #### Published/Accepted Works
 
