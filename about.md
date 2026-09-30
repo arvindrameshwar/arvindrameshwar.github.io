@@ -103,6 +103,4 @@ Stochastic $t$-Error Channel**," in the Workshop on Coding Theory and Algorithms
 
 ### As (Yet) Unpublished Preprints or Write-ups
 
-1. V. Arvind Rameshwar, "**Computations pertaining to some sequence reconstruction problems in immunogenomics**," (in progress) Jun. 2025. [[pdf]({{ site.baseurl }}/note-seq-reconstruct-immuno.pdf)]
-
-2. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
+1. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
