@@ -10,7 +10,7 @@ permalink: /pubs
 
 #### Works Under Review
 
-1. Haricharan Balasundaram and V. Arvind Rameshwar, "**The asymptotics of language model alignment with memory**," submitted, Sep. 2026.
+1. Haricharan Balasundaram and V. Arvind Rameshwar, "**The asymptotics of language model alignment with memory**," submitted, Sep. 2026. [[arXiv](https://arxiv.org/abs/2610.01828)]
 
 2. Jaswanthi Mandalapu, Deepak Charan, V. Arvind Rameshwar, and Nir Weinberger, "**Trace complexities of sequence reconstruction problems in immunogenomics**," submitted, Sep. 2026. [[arXiv](https://arxiv.org/abs/2609.31501)]
 
