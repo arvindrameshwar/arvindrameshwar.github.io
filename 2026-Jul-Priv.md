@@ -53,6 +53,7 @@ Handwritten lecture notes will be made available at the end of every module.
 6. [Advanced composition theorem]({{ site.baseurl }}/2026-Jul-Priv/Sp-2026-l7-approx-dp-2-full-proof-adv-comp.pdf) (24/8)
 7. [Exponential mechanism]({{ site.baseurl }}/2026-Jul-Priv/Sp-2026-l8-exp-mechanism.pdf) (31/8)
 8. [Binary tree mechanism for CDF release]({{ site.baseurl }}/2026-Jul-Priv/Sp-2026-l9-binary-tree.pdf) (1/9)
+9. [AboveThreshold mechanism for online threshold queries]({{ site.baseurl }}/2026-Jul-Priv/Sp-2026-l10-sparse-vector.pdf) (24/9), (29/9)
 
 ### Selected Useful Online Courses and References
 
