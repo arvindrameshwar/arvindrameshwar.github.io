@@ -54,6 +54,9 @@ Handwritten lecture notes will be made available at the end of every module.
 7. [Exponential mechanism]({{ site.baseurl }}/2026-Jul-Priv/Sp-2026-l8-exp-mechanism.pdf) (31/8)
 8. [Binary tree mechanism for CDF release]({{ site.baseurl }}/2026-Jul-Priv/Sp-2026-l9-binary-tree.pdf) (1/9)
 9. [AboveThreshold mechanism for online threshold queries]({{ site.baseurl }}/2026-Jul-Priv/Sp-2026-l10-sparse-vector.pdf) (24/9), (29/9)
+10. [DP ERM]({{ site.baseurl }}/2026-Jul-Priv/Sp-2026-l11-private-ERM.pdf) (5/10)
+11. [DP SGD]({{ site.baseurl }}/2026-Jul-Priv/Sp-2026-l12-private-SGD.pdf) (6/10), (13/10)
+12. [DP in practice: RAPPOR]({{ site.baseurl }}/2026-Jul-Priv/Sp-2026-l16-dp-practice-1.pdf) (13/10), (19/10)
 
 ### Selected Useful Online Courses and References
 
