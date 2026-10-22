@@ -103,6 +103,6 @@ Stochastic $t$-Error Channel**," in the Workshop on Coding Theory and Algorithms
 
 ### As (Yet) Unpublished Preprints or Write-ups
 
-1. Vivian Papadopoulou, Yonatan Yehezkeally, V. Arvind Rameshwar, and Antonia Wachter-Zeh, "**When Majority-Vote Fails: Sequence Reconstruction under Fixed-Weight Substitutions**," Oct. 2026. [[arXiv](https://arxiv.org/abs/2610.30001)]
+1. Vivian Papadopoulou, Yonatan Yehezkeally, V. Arvind Rameshwar, and Antonia Wachter-Zeh, "**When majority-vote fails: sequence reconstruction under fixed-weight substitutions**," Oct. 2026. [[arXiv](https://arxiv.org/abs/2610.30001)]
 
 2. V. Arvind Rameshwar, Anshoo Tandon, Prajjwal Gupta, Aditya Vikram Singh, Novoneel Chakraborty, and Abhay Sharma, "**Mean estimation with user-level privacy for spatio-temporal IoT datasets**," 2024. [[arXiv](https://arxiv.org/abs/2401.15906)] (**may sadly remain unpublished**)
